@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="1087209702421076105" name="fingerprint_acquired_imager_dirty">"औँठाछाप सेन्सर फोहोर छ। कृपया सफा गरेर फेरि प्रयास गर्नुहोस्।"</string>
+    <string msgid="4596546021310923214" name="fingerprint_acquired_insufficient">"औठाछाप प्रशोधन गर्न सकिएन। कृपया फेरि प्रयास गर्नुहोस्।"</string>
+    <string msgid="735082772341716043" name="fingerprint_acquired_partial">"आंशिक औठाछाप पत्ता लाग्यो। कृपया फेरि प्रयास गर्नुहोस्।"</string>
+    <string msgid="6470642383109155969" name="fingerprint_acquired_too_fast">"औंला धेरै छिटो चलाइयो। पुन: प्रयास गर्नुहोस्।"</string>
+    <string msgid="59250885689661653" name="fingerprint_acquired_too_slow">"औंला निकै सुस्त सारियो। कृपया फेरि प्रयास गर्नुहोस्।"</string>
+    <string msgid="4402024612660774395" name="fingerprint_error_canceled">"औँठाछाप सञ्चालन रद्द गरियो।"</string>
+    <string msgid="7955921658939936596" name="fingerprint_error_hw_not_available">"औँठाछाप हार्डवेयर उपलब्ध छैन।"</string>
+    <string msgid="5536934748136933450" name="fingerprint_error_lockout">"धेरै प्रयासहरू। केहि समय पछि पुन: प्रयास गर्नुहोला"</string>
+    <string msgid="1055819001126053318" name="fingerprint_error_no_space">"औँठाछाप भण्डारण गर्न सकिँदैन। कृपया अवस्थित औठाछाप हटाउनुहोस्।"</string>
+    <string msgid="3927186043737732875" name="fingerprint_error_timeout">"औँठाछापको समय सकिएको छ। फेरि प्रयास गर्नुहोस्।"</string>
+    <string msgid="6107816084103552441" name="fingerprint_error_unable_to_process">"पुन: प्रयास गर्नुहोला।"</string>
+    <string msgid="2690661881608146617" name="fingerprint_not_recognized">"चिनिएको छैन"</string>
+    <string msgid="4516019619850763049" name="fingerprints">"औँठाछापहरू:"</string>
+    <string msgid="3698378085901466129" name="mr_button_content_description">"Cast बटन"</string>
+    <string msgid="5088427771788648085" name="mr_cast_button_connected">"Cast बटन। जडान भयो"</string>
+    <string msgid="2187642765091873834" name="mr_cast_button_connecting">"Cast बटन। जडान हुँदै"</string>
+    <string msgid="816305490427819240" name="mr_cast_button_disconnected">"Cast बटन। जडान विच्छेद भयो"</string>
+    <string msgid="6349900579507521956" name="mr_chooser_searching">"यन्त्रहरू पत्ता लगाउँदै"</string>
+    <string msgid="414301941546135990" name="mr_chooser_title">"यसमा Cast गर्नुहोस्"</string>
+    <string msgid="6422801843540543585" name="mr_controller_album_art">"एल्बम आर्ट"</string>
+    <string msgid="4868457957151124867" name="mr_controller_casting_screen">"स्क्रिन cast गर्दै"</string>
+    <string msgid="7333862312480583260" name="mr_controller_close_description">"बन्द गर्नुहोस्"</string>
+    <string msgid="7924809056904240926" name="mr_controller_collapse_group">"संक्षिप्त पार्नुहोस्"</string>
+    <string msgid="1227264889412989580" name="mr_controller_disconnect">"विच्छेद गर्नुहोस्"</string>
+    <string msgid="8062427022744266907" name="mr_controller_expand_group">"विस्तार गर्नुहोस्"</string>
+    <string msgid="5585418471741142924" name="mr_controller_no_info_available">"जानकारी उपलब्ध छैन"</string>
+    <string msgid="6547130360349182381" name="mr_controller_no_media_selected">"कुनै मिडिया चयन भएको छैन"</string>
+    <string msgid="5451884435510905406" name="mr_controller_pause">"रोक्नुहोस्"</string>
+    <string msgid="683634565969987458" name="mr_controller_play">"बजाउनुहोस्"</string>
+    <string msgid="4570331844078181931" name="mr_controller_stop">"casting रोक्नुहोस्"</string>
+    <string msgid="2361785992211841709" name="mr_controller_volume_slider">"भोल्युमको स्लाइडर"</string>
+    <string msgid="5441529851481176817" name="mr_system_route_name">"प्रणाली"</string>
+    <string msgid="7498112907524977311" name="mr_user_route_category_name">"उपकरणहरू"</string>
+</resources>

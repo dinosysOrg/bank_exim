@@ -1,0 +1,3 @@
+20170807:
+- Software token from RSA Sample code with transaction signing feature
+- Adding qrcode scanning for token import and transaction detail

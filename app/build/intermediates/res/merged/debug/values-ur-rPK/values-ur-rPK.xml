@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="1087209702421076105" name="fingerprint_acquired_imager_dirty">"فنگر پرنٹ سینسر گندا ہے۔ براہ کرم صاف کریں اور دوبارہ کوشش کریں۔"</string>
+    <string msgid="4596546021310923214" name="fingerprint_acquired_insufficient">"فنگر پرنٹ پر کارروائی نہیں کی جا سکی۔ براہ کرم دوبارہ کوشش کریں۔"</string>
+    <string msgid="735082772341716043" name="fingerprint_acquired_partial">"جزوی فنگر پرنٹ کی شناخت ہوئی۔ براہ کرم دوبارہ کوشش کریں۔"</string>
+    <string msgid="6470642383109155969" name="fingerprint_acquired_too_fast">"انگلی کو کافی تیزی سے ہٹا لیا گیا۔ براہ کرم دوبارہ کوشش کریں۔"</string>
+    <string msgid="59250885689661653" name="fingerprint_acquired_too_slow">"انگلی کو بہت آہستہ ہٹایا گیا۔ براہ کرم دوبارہ کوشش کریں۔"</string>
+    <string msgid="4402024612660774395" name="fingerprint_error_canceled">"فنگر پرنٹ کی کارروائی منسوخ ہوگئی۔"</string>
+    <string msgid="7955921658939936596" name="fingerprint_error_hw_not_available">"فنگر پرنٹ ہارڈ ویئر دستیاب نہیں ہے۔"</string>
+    <string msgid="5536934748136933450" name="fingerprint_error_lockout">"کافی زیادہ کوششیں کی گئیں۔ بعد میں دوبارہ کوشش کریں۔"</string>
+    <string msgid="1055819001126053318" name="fingerprint_error_no_space">"فنگر پرنٹ اسٹور نہیں کیا جا سکتا ہے۔ براہ کرم ایک موجودہ فنگر پرنٹ ہٹائیں۔"</string>
+    <string msgid="3927186043737732875" name="fingerprint_error_timeout">"فنگر پرنٹ کی میعاد ختم ہوگئی۔ دوبارہ کوشش کریں۔"</string>
+    <string msgid="6107816084103552441" name="fingerprint_error_unable_to_process">"دوبارہ کوشش کریں۔"</string>
+    <string msgid="2690661881608146617" name="fingerprint_not_recognized">"تسلیم شدہ نہیں ہے"</string>
+    <string msgid="4516019619850763049" name="fingerprints">"فنگر پرنٹس:"</string>
+    <string msgid="3698378085901466129" name="mr_button_content_description">"کاسٹ کرنے کا بٹن"</string>
+    <string msgid="5088427771788648085" name="mr_cast_button_connected">"کاسٹ کرنے کا بٹن۔ منسلک ہے"</string>
+    <string msgid="2187642765091873834" name="mr_cast_button_connecting">"کاسٹ کرنے کا بٹن۔ منسلک ہو رہا ہے"</string>
+    <string msgid="816305490427819240" name="mr_cast_button_disconnected">"کاسٹ کرنے کا بٹن۔ غیر منسلک ہے"</string>
+    <string msgid="6349900579507521956" name="mr_chooser_searching">"آلات تلاش ہو رہے ہیں"</string>
+    <string msgid="414301941546135990" name="mr_chooser_title">"اس میں کاسٹ کریں"</string>
+    <string msgid="6422801843540543585" name="mr_controller_album_art">"البم آرٹ"</string>
+    <string msgid="4868457957151124867" name="mr_controller_casting_screen">"سکرین کاسٹ ہو رہی ہے"</string>
+    <string msgid="7333862312480583260" name="mr_controller_close_description">"بند کریں"</string>
+    <string msgid="7924809056904240926" name="mr_controller_collapse_group">"سکیڑیں"</string>
+    <string msgid="1227264889412989580" name="mr_controller_disconnect">"غیر منسلک کریں"</string>
+    <string msgid="8062427022744266907" name="mr_controller_expand_group">"پھیلائیں"</string>
+    <string msgid="5585418471741142924" name="mr_controller_no_info_available">"کوئی معلومات دستیاب نہیں"</string>
+    <string msgid="6547130360349182381" name="mr_controller_no_media_selected">"کوئی میڈیا منتخب نہیں ہے"</string>
+    <string msgid="5451884435510905406" name="mr_controller_pause">"موقوف کریں"</string>
+    <string msgid="683634565969987458" name="mr_controller_play">"چلائیں"</string>
+    <string msgid="4570331844078181931" name="mr_controller_stop">"کاسٹ کرنا بند کریں"</string>
+    <string msgid="2361785992211841709" name="mr_controller_volume_slider">"والیوم سلائیڈر"</string>
+    <string msgid="5441529851481176817" name="mr_system_route_name">"سسٹم"</string>
+    <string msgid="7498112907524977311" name="mr_user_route_category_name">"آلات"</string>
+</resources>

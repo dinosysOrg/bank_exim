@@ -1,0 +1,2075 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/b08b11c85037446b0b191ec491c769d2390215d7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f15e20dd7bcde7c688cfda44d0c8320a5c1c24b8">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_621606ea1f5c3333ae642ccfa211267bec0f75f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/6c05d26c6e4d0a986b96d95a242748a29b71a7f1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_47269b11780b5f13bf93b49a06a0ca2234d99d27/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/32a3f15d1f6fb2001f528a772ad5bbb2ca9083f2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ae6d33f37143b08cd8c477c9e348d61ef7ed7eba">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8c18e9503d862adaea94a3dea2f2f547de6dfee4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.0/edf3f7bfb84a7521d0599efa3b0113a0ee90f85/common-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0edf3f7bfb84a7521d0599efa3b0113a0ee90f85">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.1.0_2c0afd2a5262f80987b10b283b3d1e5afc5b5e9c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/cc42c3eb4df8b17bfb5fd691fa05377de7287980/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fc3036436defd3070337b7191c50a136ebca7f8f">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d62db7823528b99def3f0434d173c040c01a8e5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/07e153b054ba0f82d12ca568409071ddf03f1e95/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bfba7cf662f7e3e2cfeb92226c6b84c08e590225">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1b7d1df2537d8e189caea45e49b5369b9607d6c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/3df3547456eee37582a7052f28e33b14639f2185/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_24b0829f2a29206137e232815ca6e7f882902e72/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/e71a21192b8cd76f646cbe0ecfd41f47bf5aac22/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="23dcb4803d3103bde3f3f5db978a726338fe49ae">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3d61922571e7c8a214935fb1153d0cebaa2fc843/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/02cd5e6ee1a62c277a78eb87b99e36573b00d87b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e87cd34df1f68e96f4e4a8071425b9213421a36f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.1.0/8007981f7d7540d89cd18471b8e5dcd2b4f99167/common-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8007981f7d7540d89cd18471b8e5dcd2b4f99167">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.1.0_9bdea30b0649af05ed710daf9784e7baf6253176/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/797ce05a27ffe61dbc1659bbb13fe01a54270919/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c72b1515efbd8ad652e2d63582c8234a979b1e53">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_833d9782204b529585d66dfef29ac119b1ca2943/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/125fdebc6e5ebc40ae2167ce3b8ce878480096d4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f5ff5e3811e8c9485fd27f9052ae4d4d23a22d9d">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7bd2fd29b70f56646088e94597db9c1070b7d455/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/dc018a68ecd1e4b898f787bff7d10e608e261a3d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7038c6d960d3fe26fd41bc509f256c9692d886ce">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_06c0e37df23892d75c6964d75d0bcc8872274ad0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/2dced430b9ffe13b19441862d6a814ab12945c9c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c6aa915c08cfd82780c10d4b957018bf819a48e2">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_163edba6a74fdb58156ef951f68c20d96b0fe611/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/a41d2e983bef25f9da46d51d50db878cd70f1e69/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c6706cc7c8c3093560edd55d322218afe7798aa9">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2c8e46735f31e6d25f40ef07f4736bd62a2b7fcd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/42a703d1140ed47c2f097df44ff776b7c0d9b7cc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="56d68d1174b9c1e368017a850b62b12429f39757">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a01de7ba3540a53519d1c9d897eedd2a09333688/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/f1a6baffdec608e30d64d96aa0603ca0694bb639/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2c2f1b3f82c027e98f56bb0154de0acbcce42e6d">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ec8878412cb8fe6873546feca71794341c4a04fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/e71a21192b8cd76f646cbe0ecfd41f47bf5aac22/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="23dcb4803d3103bde3f3f5db978a726338fe49ae">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3d61922571e7c8a214935fb1153d0cebaa2fc843/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.0/5c06d197fb7fa875ad452f562e3310dd9949d066/retrofit-2.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5c06d197fb7fa875ad452f562e3310dd9949d066">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.0.0_9dedd1336eb2fa952ee952d4b4cb501b7c5de639/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/29f42d1aad71ae0e98ce1042221c15915674a1bf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c1b91bc7e480ab100d0397b16c93732e26fd10eb">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fa313262186ce4ccd2612c3c211973ca1a605748/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/d820fda8beb6031064a3bd86c30dc51d9148bbc6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="02b91f8efa91dcdf5c555ee24b7f006f02cd0f8b">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d458ddeac1fd26427ea9c0f3c9f01ca47d7a9cc5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/f9f159b61161bf2bfe8e5cc6696a6d0a7ccf9924/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8ed0b2b39554b8c90e0a0b6b842dc0beef008a64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/ae1b80e9d451ef97ccdf5ff4c38801ce5ec18a5d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e2bbe48deed35056023eed2cdc0cc92e5c7d3617">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7fa75b7dce8ba777e7ad90b8553c95d619281ad6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/4cc71294da8de1e28d715ce0b42f24f651458908/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2b12b18c5518021cc71577c83d1290f8ddaa3c98">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9ba81efc2353f6577f50b4740767474aa744a04f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/1ae0554812dabfd8ae372abd61b8759101987b5b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a5d52089bf4d31537232bb6bcb70cee817d8a374">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3f56a16896d9a209ec8996c6ef66ad72f2619dc8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-scalars/2.0.0/b0a1e7a46e0366fc062a76d8ad7c6bb0bf68c28f/converter-scalars-2.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b0a1e7a46e0366fc062a76d8ad7c6bb0bf68c28f">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-scalars-2.0.0_e8a09f6892fad5ce7ccf94bfd8278ea34a14048d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/529c46038e22909496b2a465adde8cd4b3cf12d0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2feadd535770271ca57b7b431f42151aa4af324a">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c118bc9c4c95d2262a6940e0341056be8f18098c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/58dec1f8eb57907c2fcd99ee724be171a838f1cb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4a8b70e4d7e8168d6f8b13a0a416a22af99f32b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.0/49eb3ad545e7701234e4dd83db8dc1344b577f23/converter-gson-2.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="49eb3ad545e7701234e4dd83db8dc1344b577f23">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.0.0_811afc48e9c03f0995493f66e32ab5b0d512b79b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/8e93b3c2911366fc3d15a6acb47422ace569fb42/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_038b2cb354d9361f61bb0bf9bcb5adbe5be53969/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/ba5675e7a05e4cb2c1b8c42757b2981f4bd5f4e8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="057fb316bed8467398333f30926c2d5506e275b2">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_519f6ac325c2137a8f670da957654f1cf913eb6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/8d50fc3599df2684bb85d397ab4a94f8501d2f61/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_474eda18df5f40b1c08d492d0438353de091f09b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/89bb45156cfa74a94c6e8e44907bb06e6b48d83a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a96e2c9f75acbfdd5a4de1a6d345c9c471b19f69/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/07e153b054ba0f82d12ca568409071ddf03f1e95/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bfba7cf662f7e3e2cfeb92226c6b84c08e590225">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1b7d1df2537d8e189caea45e49b5369b9607d6c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/f18f460c8c7de75e0820df2555c770899c680f7f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5594a368622908d89c47d9a391aa2724fe046c35">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cd9bc0dce6eaa30c445dd0b4fac5edc59f7e5e5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/818869720cb4cc1071f46d333d0de485d224e47f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_63a630e636dd37dc735270d37e7f5ee41f1b4d84/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/cc42c3eb4df8b17bfb5fd691fa05377de7287980/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fc3036436defd3070337b7191c50a136ebca7f8f">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d62db7823528b99def3f0434d173c040c01a8e5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/ec105f057fb6922c05c3f6540be3f8a4360312b0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_45bf37bf20650bc5483006ec699dd5133cefe2a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta4/constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-beta4_f24d28c0000543d1379d2e5e8a3790a7cb0e209a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/781e1995b4895dd9312c3fa4e450c29d6ff55d5b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_488cd829a44911571bc1de1c5aecfd8d3bbd1236/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/949fd96dc53c2d9b4fe50fd4f3bdf2d4abcff601/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d8942ee348aaa9341f08f7e2437063893fe27542">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e73a62a68bb0d76d5163d83699303d9803a058bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.1.0/8007981f7d7540d89cd18471b8e5dcd2b4f99167/common-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8007981f7d7540d89cd18471b8e5dcd2b4f99167">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.1.0_9bdea30b0649af05ed710daf9784e7baf6253176/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/125fdebc6e5ebc40ae2167ce3b8ce878480096d4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f5ff5e3811e8c9485fd27f9052ae4d4d23a22d9d">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7bd2fd29b70f56646088e94597db9c1070b7d455/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/ac601edde732a782b72c7cfd07876aa018b388fc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="76ea35b41786082af23db898ca9e0fc07cc71fb9">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3a1d3df973a01f06c3c697d5527bf6d099a4b71c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/c3de49034a9b72d959c469ec2af0321343682667/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0bffdc0bd4f7ca0e27c5bfeef39569f8da00aa26">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d230e7e59738defa5dae362d6938255ad0aecfed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/75490431b1411eace4c862788e3bca83e1afd5cb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="63b03eaa1aa9b9431c7638841175f9842dcbf274">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_961c5cff1fb905ea89b9edbc025c50e0b32e803c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/8f8718726ca3174d1354a86ce28aa520970efc8b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a6e18f5c371f4b5ca205c733443dc1290371571e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/3a9aed624920ae6357ab305af54bbdb86aea138b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2daec10f3c0ce3c56b33acab57071fde4385aca9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/7789184900f0e31dfee8e4431a75fdc827010f39/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1b12397bc9f342b29d9e9108978828f99a6da579">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7cbc62b32e2e91e7614ebeb7aab3dd42529b3f72/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.1_3095e2fb160a85e0a91b85638c64ce9a33db2f2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/14a7f22db84bc9d6c719c37acf728e35001388a6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="eea424e61a0c85b93a0e477565314a58136abaea">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0a1bb51c5c976c7d044a08d3655201863142b56e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/b132c054f971599bf4798a4e7dde6e0677147e89/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="377c5f26ebf67f3fa6ef2f663a58cac7ce647dde">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f52b8310f094513b9fcb5728e5dcc8b743d35f7f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/002ac868610ef8c01089da9125a8d22675a88381/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7c24e2e9773fb498e390ce973db382c3ddcf748e">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d1319e397d50346ffe59c86bdcbe79a1522df362/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/e84a0f806a4518957a89af14dbf892b7e61706d7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ea286d203080c50444f67f7e1acd1443b2c6c987/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/42a703d1140ed47c2f097df44ff776b7c0d9b7cc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="56d68d1174b9c1e368017a850b62b12429f39757">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a01de7ba3540a53519d1c9d897eedd2a09333688/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/5e88a02bc3f15bd4acaa6d049c18a92ef75958fb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3bb361ddb16238d83f884b1375345682578b7456/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/8e93b3c2911366fc3d15a6acb47422ace569fb42/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_038b2cb354d9361f61bb0bf9bcb5adbe5be53969/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/529c46038e22909496b2a465adde8cd4b3cf12d0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2feadd535770271ca57b7b431f42151aa4af324a">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c118bc9c4c95d2262a6940e0341056be8f18098c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/f9f159b61161bf2bfe8e5cc6696a6d0a7ccf9924/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8ed0b2b39554b8c90e0a0b6b842dc0beef008a64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/libs/cryptoj.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4d97741313fc0b004edcf77af739de975e84b70c">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/cryptoj_cb18bf09131e5b38c04afbd31f61844d57223590/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/c4830a0e6c892ce838cd6ba045a2393bcedd948a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8544f739799dd15db63927073a21312864ab0bfd">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_791ff1c74c430a4b9fc791f2cdb030fb83819589/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/4bc3152dab07133490d041fbc00f7a5ebd410118/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ffd0ddf5e57b4d60c4a3fbcd38fa20349a0cebd1">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_99008f2b235ca2fda91245b237d59ea4b2cd1eb2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/libs/cryptoj.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4d97741313fc0b004edcf77af739de975e84b70c">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/cryptoj_cb18bf09131e5b38c04afbd31f61844d57223590/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/35f8a9ecd319e8a157c01c4f2017f8792c822f4f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dae0d68af4c87df40eca67069861e53b7cefaaa0">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_517ee36841e9ac83be7e36fb87582bef980b01e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/818869720cb4cc1071f46d333d0de485d224e47f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_63a630e636dd37dc735270d37e7f5ee41f1b4d84/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/b675d14cbb74ee7666ba412ad98490ed1e5bb48e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2c379c235d7983201bb83edfc3c60bb0dafb5805">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2abf6bdd39386298f1f396ad6e568aa0ccc15e20/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/09251c0a863548ff82f32ab782c7fc5257faab2d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1cf392cd1b708456fd2a836aceca4340a908e1bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/0dfb90f4c558655727a13812e3ce313546cacc5a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_98a82154c30eb2e4359adf16b84fc1465a86bf33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/f9f159b61161bf2bfe8e5cc6696a6d0a7ccf9924/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8ed0b2b39554b8c90e0a0b6b842dc0beef008a64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.1_3095e2fb160a85e0a91b85638c64ce9a33db2f2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.0/49eb3ad545e7701234e4dd83db8dc1344b577f23/converter-gson-2.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="49eb3ad545e7701234e4dd83db8dc1344b577f23">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.0.0_811afc48e9c03f0995493f66e32ab5b0d512b79b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/4bc3152dab07133490d041fbc00f7a5ebd410118/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ffd0ddf5e57b4d60c4a3fbcd38fa20349a0cebd1">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_99008f2b235ca2fda91245b237d59ea4b2cd1eb2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/aa3e3605824a5603170eb8160b3fa63ef4e8e305/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3da192da7bf0824f88880d284dc7134168c7842a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/b675d14cbb74ee7666ba412ad98490ed1e5bb48e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2c379c235d7983201bb83edfc3c60bb0dafb5805">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2abf6bdd39386298f1f396ad6e568aa0ccc15e20/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/c3de49034a9b72d959c469ec2af0321343682667/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0bffdc0bd4f7ca0e27c5bfeef39569f8da00aa26">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d230e7e59738defa5dae362d6938255ad0aecfed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/0dfb90f4c558655727a13812e3ce313546cacc5a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_98a82154c30eb2e4359adf16b84fc1465a86bf33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/9f273f7097bece8aca9306d9bf9df87b1b5b5bc2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c9a721adcd7dbae7a197b0ef81102336539f63ff">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9b8528e8b79be73e4cd71acc1f0f4fa18e55f1f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/f9961b770cf970e141998d3bf8db86acb23580da/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3ac08c35419ab7cf9146969de471768dbe502f0f">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_46203e9559a0875221226c8249a062c4740b4ed2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.1/b494968f6050d494de55dc3ce005e59c7eb40012/rxjava-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b494968f6050d494de55dc3ce005e59c7eb40012">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.1.1_dd716199fbeee0af00ed8db1f3cd9996bc6882f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/a41d2e983bef25f9da46d51d50db878cd70f1e69/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c6706cc7c8c3093560edd55d322218afe7798aa9">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2c8e46735f31e6d25f40ef07f4736bd62a2b7fcd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/ec105f057fb6922c05c3f6540be3f8a4360312b0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_45bf37bf20650bc5483006ec699dd5133cefe2a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.0.0/bf61256d9868ea053e24d77669c55c80db375c15/adapter-rxjava-2.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf61256d9868ea053e24d77669c55c80db375c15">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/adapter-rxjava-2.0.0_812b58e2694bb6db9ec5bd5db1f9f3eac119393d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/8f8718726ca3174d1354a86ce28aa520970efc8b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a6e18f5c371f4b5ca205c733443dc1290371571e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/bed2ca11f79ecdc1e5ed31e726e51f76f3ae69ce/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4b685077cdb08cf7ae8b61afd1fe910e47d91b9a">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5a46617ffbab74d461dbf2c9c835a4cfd17d618e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/05521641964a9801fe81a0e9893e00eef5ebe650/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4798b2c2dd1fa53176696fa416890d27acbf5617">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_09e9a3ee76a8c9c58b2cd5d197b85357c110ca4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/e2c3853c9947bc29040177de3154f5c0de968e22/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="88c68e5ef7c5ace393d014c9ec5fe736b1ca55cf">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_359a886d4dfcc68c2b50f18b6fe9facdb3a079aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/09251c0a863548ff82f32ab782c7fc5257faab2d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1cf392cd1b708456fd2a836aceca4340a908e1bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/3fbc4e477ae86e33c74ad40a8c5458c2b5c0ae50/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c2e59fb9904d0906d84fb926f893009e7d9b455e">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0a6e6211f8fe180b35a0d57f450952440b9882cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta4/constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-beta4_f24d28c0000543d1379d2e5e8a3790a7cb0e209a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/libs/cryptoj.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4d97741313fc0b004edcf77af739de975e84b70c">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/cryptoj_cb18bf09131e5b38c04afbd31f61844d57223590/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/ba5675e7a05e4cb2c1b8c42757b2981f4bd5f4e8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="057fb316bed8467398333f30926c2d5506e275b2">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_519f6ac325c2137a8f670da957654f1cf913eb6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.2.0/a56f28d5b7fab623c6c1d2afa08dd496d873ac21/logging-interceptor-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a56f28d5b7fab623c6c1d2afa08dd496d873ac21">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/logging-interceptor-3.2.0_e7f37bcd7a75faaafab93d3f229da6be75e7f144/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/35f8a9ecd319e8a157c01c4f2017f8792c822f4f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="dae0d68af4c87df40eca67069861e53b7cefaaa0">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_517ee36841e9ac83be7e36fb87582bef980b01e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/3a9aed624920ae6357ab305af54bbdb86aea138b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2daec10f3c0ce3c56b33acab57071fde4385aca9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/14a7f22db84bc9d6c719c37acf728e35001388a6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="eea424e61a0c85b93a0e477565314a58136abaea">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0a1bb51c5c976c7d044a08d3655201863142b56e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_f3b81379a3677905ed4eddc22d88f5eac1701391/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/3df3547456eee37582a7052f28e33b14639f2185/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_24b0829f2a29206137e232815ca6e7f882902e72/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/e84a0f806a4518957a89af14dbf892b7e61706d7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ea286d203080c50444f67f7e1acd1443b2c6c987/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/0dfb90f4c558655727a13812e3ce313546cacc5a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_98a82154c30eb2e4359adf16b84fc1465a86bf33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/c3de49034a9b72d959c469ec2af0321343682667/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0bffdc0bd4f7ca0e27c5bfeef39569f8da00aa26">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d230e7e59738defa5dae362d6938255ad0aecfed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/002ac868610ef8c01089da9125a8d22675a88381/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7c24e2e9773fb498e390ce973db382c3ddcf748e">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d1319e397d50346ffe59c86bdcbe79a1522df362/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/02cd5e6ee1a62c277a78eb87b99e36573b00d87b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e87cd34df1f68e96f4e4a8071425b9213421a36f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/ec105f057fb6922c05c3f6540be3f8a4360312b0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_45bf37bf20650bc5483006ec699dd5133cefe2a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/09251c0a863548ff82f32ab782c7fc5257faab2d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1cf392cd1b708456fd2a836aceca4340a908e1bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/125fdebc6e5ebc40ae2167ce3b8ce878480096d4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f5ff5e3811e8c9485fd27f9052ae4d4d23a22d9d">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7bd2fd29b70f56646088e94597db9c1070b7d455/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/b675d14cbb74ee7666ba412ad98490ed1e5bb48e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2c379c235d7983201bb83edfc3c60bb0dafb5805">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2abf6bdd39386298f1f396ad6e568aa0ccc15e20/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/4bc3152dab07133490d041fbc00f7a5ebd410118/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ffd0ddf5e57b4d60c4a3fbcd38fa20349a0cebd1">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_99008f2b235ca2fda91245b237d59ea4b2cd1eb2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.1/b494968f6050d494de55dc3ce005e59c7eb40012/rxjava-1.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b494968f6050d494de55dc3ce005e59c7eb40012">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.1.1_dd716199fbeee0af00ed8db1f3cd9996bc6882f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/14a7f22db84bc9d6c719c37acf728e35001388a6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="eea424e61a0c85b93a0e477565314a58136abaea">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0a1bb51c5c976c7d044a08d3655201863142b56e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.2.0/a56f28d5b7fab623c6c1d2afa08dd496d873ac21/logging-interceptor-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a56f28d5b7fab623c6c1d2afa08dd496d873ac21">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/logging-interceptor-3.2.0_e7f37bcd7a75faaafab93d3f229da6be75e7f144/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/5e88a02bc3f15bd4acaa6d049c18a92ef75958fb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3bb361ddb16238d83f884b1375345682578b7456/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/aa3e3605824a5603170eb8160b3fa63ef4e8e305/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3da192da7bf0824f88880d284dc7134168c7842a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/2dced430b9ffe13b19441862d6a814ab12945c9c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c6aa915c08cfd82780c10d4b957018bf819a48e2">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_163edba6a74fdb58156ef951f68c20d96b0fe611/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/29f42d1aad71ae0e98ce1042221c15915674a1bf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c1b91bc7e480ab100d0397b16c93732e26fd10eb">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fa313262186ce4ccd2612c3c211973ca1a605748/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/42a703d1140ed47c2f097df44ff776b7c0d9b7cc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="56d68d1174b9c1e368017a850b62b12429f39757">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a01de7ba3540a53519d1c9d897eedd2a09333688/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/dc018a68ecd1e4b898f787bff7d10e608e261a3d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7038c6d960d3fe26fd41bc509f256c9692d886ce">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_06c0e37df23892d75c6964d75d0bcc8872274ad0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/9f273f7097bece8aca9306d9bf9df87b1b5b5bc2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c9a721adcd7dbae7a197b0ef81102336539f63ff">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9b8528e8b79be73e4cd71acc1f0f4fa18e55f1f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/e2c3853c9947bc29040177de3154f5c0de968e22/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="88c68e5ef7c5ace393d014c9ec5fe736b1ca55cf">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_359a886d4dfcc68c2b50f18b6fe9facdb3a079aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/8f8718726ca3174d1354a86ce28aa520970efc8b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a6e18f5c371f4b5ca205c733443dc1290371571e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/ae1b80e9d451ef97ccdf5ff4c38801ce5ec18a5d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e2bbe48deed35056023eed2cdc0cc92e5c7d3617">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7fa75b7dce8ba777e7ad90b8553c95d619281ad6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/949fd96dc53c2d9b4fe50fd4f3bdf2d4abcff601/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d8942ee348aaa9341f08f7e2437063893fe27542">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e73a62a68bb0d76d5163d83699303d9803a058bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/35f8a9ecd319e8a157c01c4f2017f8792c822f4f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dae0d68af4c87df40eca67069861e53b7cefaaa0">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_517ee36841e9ac83be7e36fb87582bef980b01e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/818869720cb4cc1071f46d333d0de485d224e47f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_63a630e636dd37dc735270d37e7f5ee41f1b4d84/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/1ae0554812dabfd8ae372abd61b8759101987b5b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a5d52089bf4d31537232bb6bcb70cee817d8a374">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3f56a16896d9a209ec8996c6ef66ad72f2619dc8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/bed2ca11f79ecdc1e5ed31e726e51f76f3ae69ce/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4b685077cdb08cf7ae8b61afd1fe910e47d91b9a">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5a46617ffbab74d461dbf2c9c835a4cfd17d618e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.0.0/bf61256d9868ea053e24d77669c55c80db375c15/adapter-rxjava-2.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf61256d9868ea053e24d77669c55c80db375c15">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/adapter-rxjava-2.0.0_812b58e2694bb6db9ec5bd5db1f9f3eac119393d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/89bb45156cfa74a94c6e8e44907bb06e6b48d83a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a96e2c9f75acbfdd5a4de1a6d345c9c471b19f69/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/3fbc4e477ae86e33c74ad40a8c5458c2b5c0ae50/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c2e59fb9904d0906d84fb926f893009e7d9b455e">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0a6e6211f8fe180b35a0d57f450952440b9882cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-scalars/2.0.0/b0a1e7a46e0366fc062a76d8ad7c6bb0bf68c28f/converter-scalars-2.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b0a1e7a46e0366fc062a76d8ad7c6bb0bf68c28f">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-scalars-2.0.0_e8a09f6892fad5ce7ccf94bfd8278ea34a14048d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/58dec1f8eb57907c2fcd99ee724be171a838f1cb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4a8b70e4d7e8168d6f8b13a0a416a22af99f32b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/07e153b054ba0f82d12ca568409071ddf03f1e95/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bfba7cf662f7e3e2cfeb92226c6b84c08e590225">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1b7d1df2537d8e189caea45e49b5369b9607d6c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/79e06037c029d3bccdb9d18bef89ccac21af0a2c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3304d33470ff64cf83bce9189ff3648a42eb2aa7">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4d7af3b8b2daa29c7a75642123c86b050c8a06ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/002ac868610ef8c01089da9125a8d22675a88381/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7c24e2e9773fb498e390ce973db382c3ddcf748e">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d1319e397d50346ffe59c86bdcbe79a1522df362/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/4cc71294da8de1e28d715ce0b42f24f651458908/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2b12b18c5518021cc71577c83d1290f8ddaa3c98">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9ba81efc2353f6577f50b4740767474aa744a04f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/f18f460c8c7de75e0820df2555c770899c680f7f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5594a368622908d89c47d9a391aa2724fe046c35">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cd9bc0dce6eaa30c445dd0b4fac5edc59f7e5e5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.1.1/39ded76b5e1ce1c5b2688e1d25cdc20ecee32007/support-annotations-27.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-27.1.1_e60d9dc94fdf4d6e012d9bb8b2fbc32fecf5caf2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/8d50fc3599df2684bb85d397ab4a94f8501d2f61/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_474eda18df5f40b1c08d492d0438353de091f09b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/da2ac5da9c03de3c87f4cbd340bd7b743904d6b7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="874f1143c11f5d38533efe512bf913e3e847e7df">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d2be695f3549cf8eb4dfb9b33a4ee64a1a47866c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/e84a0f806a4518957a89af14dbf892b7e61706d7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ea286d203080c50444f67f7e1acd1443b2c6c987/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/797ce05a27ffe61dbc1659bbb13fe01a54270919/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c72b1515efbd8ad652e2d63582c8234a979b1e53">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_833d9782204b529585d66dfef29ac119b1ca2943/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/e134f42c2ed68eae95ac471ed919f31dd99f7895/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4d2b8ad415048e88b41ba4afcaafe36150e69b8c">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_356a2c05f686444ca51247e6781f8a3437f5cca5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/c279b5de4d049f49f6511f79d0952a13f42652e3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c175c3009577fad8b433703f5d7ac2dc21d3871f">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_33674cd9728531d08679d612533f4d6e78dd327e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/libs/SecurIDLib.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="391eb97c180d84d9e7977b5e9a2dae626bbf4507">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/SecurIDLib_dc74c04c9c2feb849577a76fc898a39f63cb35e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/dc28a5411359c69f00070db172b7f591a2f6f314/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d968b9bd0011800e0d333d1571b8d34bcb8a0b6e">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_74e2e0bddbaf7225389013919cfe698b4920e568/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/fae3640e7d38e22080bc6d5928b3300bf6d3ddf5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e9a344b00e38ace548f1d5c2adc34d3edebe3f3c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/75490431b1411eace4c862788e3bca83e1afd5cb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="63b03eaa1aa9b9431c7638841175f9842dcbf274">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_961c5cff1fb905ea89b9edbc025c50e0b32e803c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/3df3547456eee37582a7052f28e33b14639f2185/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_24b0829f2a29206137e232815ca6e7f882902e72/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/781e1995b4895dd9312c3fa4e450c29d6ff55d5b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_488cd829a44911571bc1de1c5aecfd8d3bbd1236/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta4/constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-beta4_f24d28c0000543d1379d2e5e8a3790a7cb0e209a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/f1a6baffdec608e30d64d96aa0603ca0694bb639/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2c2f1b3f82c027e98f56bb0154de0acbcce42e6d">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ec8878412cb8fe6873546feca71794341c4a04fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/02cd5e6ee1a62c277a78eb87b99e36573b00d87b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e87cd34df1f68e96f4e4a8071425b9213421a36f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/781e1995b4895dd9312c3fa4e450c29d6ff55d5b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_488cd829a44911571bc1de1c5aecfd8d3bbd1236/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/dc28a5411359c69f00070db172b7f591a2f6f314/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d968b9bd0011800e0d333d1571b8d34bcb8a0b6e">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_74e2e0bddbaf7225389013919cfe698b4920e568/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/6c05d26c6e4d0a986b96d95a242748a29b71a7f1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_47269b11780b5f13bf93b49a06a0ca2234d99d27/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/c4830a0e6c892ce838cd6ba045a2393bcedd948a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8544f739799dd15db63927073a21312864ab0bfd">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_791ff1c74c430a4b9fc791f2cdb030fb83819589/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/f18f460c8c7de75e0820df2555c770899c680f7f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5594a368622908d89c47d9a391aa2724fe046c35">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cd9bc0dce6eaa30c445dd0b4fac5edc59f7e5e5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/5e88a02bc3f15bd4acaa6d049c18a92ef75958fb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3bb361ddb16238d83f884b1375345682578b7456/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/29f42d1aad71ae0e98ce1042221c15915674a1bf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c1b91bc7e480ab100d0397b16c93732e26fd10eb">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fa313262186ce4ccd2612c3c211973ca1a605748/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/67870a905d8f982650a980ade5dfac5e67077e0c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_460d4e1a8db56dfa5c6b64ad9d603cdecfab8caa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/8d50fc3599df2684bb85d397ab4a94f8501d2f61/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_474eda18df5f40b1c08d492d0438353de091f09b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/18ff4951617345bc92b7fad8ccaa21ada49424a2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6b3430725095bd46b785e97bd34240826c27b4db">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2467c5a000bd7ab0962d19ce47cf9b0a2a27883b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/79e06037c029d3bccdb9d18bef89ccac21af0a2c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3304d33470ff64cf83bce9189ff3648a42eb2aa7">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4d7af3b8b2daa29c7a75642123c86b050c8a06ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/1ae0554812dabfd8ae372abd61b8759101987b5b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a5d52089bf4d31537232bb6bcb70cee817d8a374">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3f56a16896d9a209ec8996c6ef66ad72f2619dc8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/d820fda8beb6031064a3bd86c30dc51d9148bbc6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="02b91f8efa91dcdf5c555ee24b7f006f02cd0f8b">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d458ddeac1fd26427ea9c0f3c9f01ca47d7a9cc5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.1.1/39ded76b5e1ce1c5b2688e1d25cdc20ecee32007/support-annotations-27.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-27.1.1_e60d9dc94fdf4d6e012d9bb8b2fbc32fecf5caf2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/f9961b770cf970e141998d3bf8db86acb23580da/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3ac08c35419ab7cf9146969de471768dbe502f0f">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_46203e9559a0875221226c8249a062c4740b4ed2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/67870a905d8f982650a980ade5dfac5e67077e0c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_460d4e1a8db56dfa5c6b64ad9d603cdecfab8caa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/f622e77a45a1e35b499ed4e1b08115e0079d419e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c8bf878c09bf0df6ae76eb6c2df38c6a186b38b7">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a4e4e2235e6de040a0ca6197824608298cfa5fed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/6c05d26c6e4d0a986b96d95a242748a29b71a7f1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_47269b11780b5f13bf93b49a06a0ca2234d99d27/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/da2ac5da9c03de3c87f4cbd340bd7b743904d6b7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="874f1143c11f5d38533efe512bf913e3e847e7df">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d2be695f3549cf8eb4dfb9b33a4ee64a1a47866c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/fae3640e7d38e22080bc6d5928b3300bf6d3ddf5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e9a344b00e38ace548f1d5c2adc34d3edebe3f3c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/libs/SecurIDLib.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="391eb97c180d84d9e7977b5e9a2dae626bbf4507">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/SecurIDLib_dc74c04c9c2feb849577a76fc898a39f63cb35e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/dfa97b407beb42bcc204ce8a603cc2c96d4bd783/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ec657bb192b20229696216bf233779b16bf75a54">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ea6b9e191e6b2b85833057c46481b9d70481654d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/c279b5de4d049f49f6511f79d0952a13f42652e3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c175c3009577fad8b433703f5d7ac2dc21d3871f">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_33674cd9728531d08679d612533f4d6e78dd327e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/b08b11c85037446b0b191ec491c769d2390215d7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f15e20dd7bcde7c688cfda44d0c8320a5c1c24b8">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_621606ea1f5c3333ae642ccfa211267bec0f75f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/f1a6baffdec608e30d64d96aa0603ca0694bb639/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2c2f1b3f82c027e98f56bb0154de0acbcce42e6d">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ec8878412cb8fe6873546feca71794341c4a04fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/aa3e3605824a5603170eb8160b3fa63ef4e8e305/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3da192da7bf0824f88880d284dc7134168c7842a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/05521641964a9801fe81a0e9893e00eef5ebe650/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4798b2c2dd1fa53176696fa416890d27acbf5617">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_09e9a3ee76a8c9c58b2cd5d197b85357c110ca4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/b6767e4723f6f8654b06ae2d6a0ee40c8cfd3140/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a25b0b5aec89681b95d32780ad7904c1e1e4c679">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_acc7bbdb23a7a73361e94d2b2ecf2b2a25878387/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/3fbc4e477ae86e33c74ad40a8c5458c2b5c0ae50/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c2e59fb9904d0906d84fb926f893009e7d9b455e">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0a6e6211f8fe180b35a0d57f450952440b9882cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/797ce05a27ffe61dbc1659bbb13fe01a54270919/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c72b1515efbd8ad652e2d63582c8234a979b1e53">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_833d9782204b529585d66dfef29ac119b1ca2943/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/18ff4951617345bc92b7fad8ccaa21ada49424a2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6b3430725095bd46b785e97bd34240826c27b4db">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2467c5a000bd7ab0962d19ce47cf9b0a2a27883b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/bed2ca11f79ecdc1e5ed31e726e51f76f3ae69ce/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4b685077cdb08cf7ae8b61afd1fe910e47d91b9a">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5a46617ffbab74d461dbf2c9c835a4cfd17d618e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/58dec1f8eb57907c2fcd99ee724be171a838f1cb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4a8b70e4d7e8168d6f8b13a0a416a22af99f32b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/23c9d9fe63baf1265012e6f84f3139a24e2ccc10/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ecd78abc2e57c9509508ad01994b930462a03244/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/afd465ac1b859311d55a9853c9bd68065058af7a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1fd3ceac7f415975323d52c6c6057db409a907f6">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7a4a3c7f07e8d578d07b73834564987332e69e70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/f0dd233258c039e4e8f74ee442672a9a7df1ef7d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="71d380aeac037e63bab7bda2ba211777e16a2f42">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3dcf85912ba757245e568bc94231fe66453a572c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/f9961b770cf970e141998d3bf8db86acb23580da/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3ac08c35419ab7cf9146969de471768dbe502f0f">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_46203e9559a0875221226c8249a062c4740b4ed2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/ba5675e7a05e4cb2c1b8c42757b2981f4bd5f4e8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="057fb316bed8467398333f30926c2d5506e275b2">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_519f6ac325c2137a8f670da957654f1cf913eb6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/89bb45156cfa74a94c6e8e44907bb06e6b48d83a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a96e2c9f75acbfdd5a4de1a6d345c9c471b19f69/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/f622e77a45a1e35b499ed4e1b08115e0079d419e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c8bf878c09bf0df6ae76eb6c2df38c6a186b38b7">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a4e4e2235e6de040a0ca6197824608298cfa5fed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/949fd96dc53c2d9b4fe50fd4f3bdf2d4abcff601/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d8942ee348aaa9341f08f7e2437063893fe27542">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e73a62a68bb0d76d5163d83699303d9803a058bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/2dced430b9ffe13b19441862d6a814ab12945c9c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c6aa915c08cfd82780c10d4b957018bf819a48e2">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_163edba6a74fdb58156ef951f68c20d96b0fe611/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/23c9d9fe63baf1265012e6f84f3139a24e2ccc10/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ecd78abc2e57c9509508ad01994b930462a03244/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/fae3640e7d38e22080bc6d5928b3300bf6d3ddf5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e9a344b00e38ace548f1d5c2adc34d3edebe3f3c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/ac601edde732a782b72c7cfd07876aa018b388fc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="76ea35b41786082af23db898ca9e0fc07cc71fb9">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3a1d3df973a01f06c3c697d5527bf6d099a4b71c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/3d27f12a8ec08c9c6e59018fd591ca0ca48ccc3f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="576570f46ff6ccc69a984af9e55ddd58d9549270">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_323a84453d0d160e0ba0db682af6805a0a26e6c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/3a9aed624920ae6357ab305af54bbdb86aea138b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2daec10f3c0ce3c56b33acab57071fde4385aca9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/b6767e4723f6f8654b06ae2d6a0ee40c8cfd3140/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a25b0b5aec89681b95d32780ad7904c1e1e4c679">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_acc7bbdb23a7a73361e94d2b2ecf2b2a25878387/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/b132c054f971599bf4798a4e7dde6e0677147e89/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="377c5f26ebf67f3fa6ef2f663a58cac7ce647dde">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f52b8310f094513b9fcb5728e5dcc8b743d35f7f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/9cc3e89889b238b69aa66a1a1762243cc6115956/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8a9fd7c97f1d13f97f3b52f9d2e54cd857d5acf9">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5f9448e242993e1505b5d18a5da1afcfd534acda/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/3d27f12a8ec08c9c6e59018fd591ca0ca48ccc3f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="576570f46ff6ccc69a984af9e55ddd58d9549270">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_323a84453d0d160e0ba0db682af6805a0a26e6c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/afd465ac1b859311d55a9853c9bd68065058af7a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1fd3ceac7f415975323d52c6c6057db409a907f6">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7a4a3c7f07e8d578d07b73834564987332e69e70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.2.0_fbff710cc37d7c7ed6cda47de397c7064f248cce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/7789184900f0e31dfee8e4431a75fdc827010f39/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1b12397bc9f342b29d9e9108978828f99a6da579">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7cbc62b32e2e91e7614ebeb7aab3dd42529b3f72/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/f0dd233258c039e4e8f74ee442672a9a7df1ef7d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="71d380aeac037e63bab7bda2ba211777e16a2f42">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3dcf85912ba757245e568bc94231fe66453a572c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/libs/SecurIDLib.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="391eb97c180d84d9e7977b5e9a2dae626bbf4507">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/SecurIDLib_dc74c04c9c2feb849577a76fc898a39f63cb35e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/b6767e4723f6f8654b06ae2d6a0ee40c8cfd3140/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a25b0b5aec89681b95d32780ad7904c1e1e4c679">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_acc7bbdb23a7a73361e94d2b2ecf2b2a25878387/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/cc42c3eb4df8b17bfb5fd691fa05377de7287980/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fc3036436defd3070337b7191c50a136ebca7f8f">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d62db7823528b99def3f0434d173c040c01a8e5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/e134f42c2ed68eae95ac471ed919f31dd99f7895/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4d2b8ad415048e88b41ba4afcaafe36150e69b8c">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_356a2c05f686444ca51247e6781f8a3437f5cca5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/d820fda8beb6031064a3bd86c30dc51d9148bbc6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="02b91f8efa91dcdf5c555ee24b7f006f02cd0f8b">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d458ddeac1fd26427ea9c0f3c9f01ca47d7a9cc5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/c279b5de4d049f49f6511f79d0952a13f42652e3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c175c3009577fad8b433703f5d7ac2dc21d3871f">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_33674cd9728531d08679d612533f4d6e78dd327e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/75490431b1411eace4c862788e3bca83e1afd5cb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="63b03eaa1aa9b9431c7638841175f9842dcbf274">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_961c5cff1fb905ea89b9edbc025c50e0b32e803c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/b08b11c85037446b0b191ec491c769d2390215d7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f15e20dd7bcde7c688cfda44d0c8320a5c1c24b8">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_621606ea1f5c3333ae642ccfa211267bec0f75f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/23c9d9fe63baf1265012e6f84f3139a24e2ccc10/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ecd78abc2e57c9509508ad01994b930462a03244/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/dfa97b407beb42bcc204ce8a603cc2c96d4bd783/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ec657bb192b20229696216bf233779b16bf75a54">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ea6b9e191e6b2b85833057c46481b9d70481654d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/18ff4951617345bc92b7fad8ccaa21ada49424a2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6b3430725095bd46b785e97bd34240826c27b4db">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2467c5a000bd7ab0962d19ce47cf9b0a2a27883b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/f622e77a45a1e35b499ed4e1b08115e0079d419e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c8bf878c09bf0df6ae76eb6c2df38c6a186b38b7">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a4e4e2235e6de040a0ca6197824608298cfa5fed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/9cc3e89889b238b69aa66a1a1762243cc6115956/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8a9fd7c97f1d13f97f3b52f9d2e54cd857d5acf9">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5f9448e242993e1505b5d18a5da1afcfd534acda/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/a41d2e983bef25f9da46d51d50db878cd70f1e69/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c6706cc7c8c3093560edd55d322218afe7798aa9">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2c8e46735f31e6d25f40ef07f4736bd62a2b7fcd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/c4830a0e6c892ce838cd6ba045a2393bcedd948a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8544f739799dd15db63927073a21312864ab0bfd">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_791ff1c74c430a4b9fc791f2cdb030fb83819589/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/67870a905d8f982650a980ade5dfac5e67077e0c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_460d4e1a8db56dfa5c6b64ad9d603cdecfab8caa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/3d27f12a8ec08c9c6e59018fd591ca0ca48ccc3f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="576570f46ff6ccc69a984af9e55ddd58d9549270">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_323a84453d0d160e0ba0db682af6805a0a26e6c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.0/edf3f7bfb84a7521d0599efa3b0113a0ee90f85/common-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0edf3f7bfb84a7521d0599efa3b0113a0ee90f85">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.1.0_2c0afd2a5262f80987b10b283b3d1e5afc5b5e9c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/ac601edde732a782b72c7cfd07876aa018b388fc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="76ea35b41786082af23db898ca9e0fc07cc71fb9">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3a1d3df973a01f06c3c697d5527bf6d099a4b71c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/7789184900f0e31dfee8e4431a75fdc827010f39/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1b12397bc9f342b29d9e9108978828f99a6da579">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7cbc62b32e2e91e7614ebeb7aab3dd42529b3f72/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/4cc71294da8de1e28d715ce0b42f24f651458908/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2b12b18c5518021cc71577c83d1290f8ddaa3c98">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9ba81efc2353f6577f50b4740767474aa744a04f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/8e93b3c2911366fc3d15a6acb47422ace569fb42/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_038b2cb354d9361f61bb0bf9bcb5adbe5be53969/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/32a3f15d1f6fb2001f528a772ad5bbb2ca9083f2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ae6d33f37143b08cd8c477c9e348d61ef7ed7eba">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8c18e9503d862adaea94a3dea2f2f547de6dfee4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyentruong/.android/build-cache/b132c054f971599bf4798a4e7dde6e0677147e89/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="377c5f26ebf67f3fa6ef2f663a58cac7ce647dde">
+        <dex dex="/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f52b8310f094513b9fcb5728e5dcc8b743d35f7f/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background_gradient"
+    android:orientation="vertical" >
+
+    <TextView
+        style="@style/nicknameTextFont"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="@string/token" />
+
+    <Spinner
+        android:id="@+id/tokenList"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/btn_dropdown_pressed"
+        android:prompt="@string/tokenListPrompt" />
+
+    <TextView
+        android:id="@+id/nicknameLabel"
+        style="@style/nicknameTextFont"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="5dp"
+        android:gravity="center"
+        android:text="@string/noTokenInstalled" />
+
+    <FrameLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/codeAndBoxFrame"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_gravity="center"
+            android:minHeight="93dp"
+            android:minWidth="240dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/code_field_lowres2_nine" />
+
+        <TextView
+            android:id="@+id/otpText"
+            style="@style/codeTextFont"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="#ffffff"
+            android:gravity="center_horizontal"
+            android:maxLength="10"
+            android:minWidth="200dp"
+            android:text="@string/defaultCode" />
+    </FrameLayout>
+
+    <TextView
+        android:id="@+id/secsRemainingLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text=""
+        android:textColor="#000000" />
+    <TextView
+        android:id="@+id/textViewTxSigningLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_marginTop="5dp"
+        android:text="Transaction Signing"
+        style="@style/nicknameTextFont"
+        />
+
+    <FrameLayout
+        android:id="@+id/frameLayoutTxID"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp">
+
+        <EditText
+            android:id="@+id/editTextTxID"
+            android:hint="Enter Transaction ID"
+            android:inputType="phone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:layout_marginLeft="25dp"
+            android:gravity="center_horizontal"
+            android:textColor="#0000AA"
+            android:maxLength="8"
+            android:minWidth="200dp"
+            android:text="" />
+
+        <Button
+            android:id="@+id/buttonTxSigning"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginRight="25dp"
+            android:text="QR Scan" />
+    </FrameLayout>
+    <TextView
+        android:id="@+id/textViewSigningCode"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_marginTop="5dp"
+        android:text="Signing code"
+        android:textColor="#000000"
+        />
+    <FrameLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/frameLayoutTxSigning"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        >
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_gravity="center"
+            android:scaleType="fitXY"
+            android:src="@drawable/code_field_lowres2_nine"
+            android:minHeight="93dp"
+            android:minWidth="280dp"
+            />
+
+        <TextView
+            android:id="@+id/textViewTxSigningCode"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="#ffffff"
+            android:gravity="center_horizontal"
+            android:maxLength="8"
+            android:minWidth="240dp"
+            android:text="@string/defaultCode"
+            style="@style/codeTextFont"
+            />
+    </FrameLayout>
+    <ImageView
+        android:layout_width="340dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:scaleType="fitXY"
+        android:src="@drawable/corp_logo"
+        android:layout_marginTop="10dp"
+        />
+
+</LinearLayout>

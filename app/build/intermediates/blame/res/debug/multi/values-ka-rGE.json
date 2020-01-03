@@ -1,0 +1,634 @@
+[
+    {
+        "outputFile": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ka-rGE/values-ka-rGE.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 169,
+                    "endOffset": 220
+                },
+                "from": {
+                    "file": "/Users/nguyentruong/.android/build-cache/3fbc4e477ae86e33c74ad40a8c5458c2b5c0ae50/output/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 169,
+                        "endOffset": 220
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 225,
+                    "endColumn": 145,
+                    "endOffset": 366
+                },
+                "from": {
+                    "file": "/Users/nguyentruong/.android/build-cache/3fbc4e477ae86e33c74ad40a8c5458c2b5c0ae50/output/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 225,
+                        "endColumn": 145,
+                        "endOffset": 366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 371,
+                    "endColumn": 149,
+                    "endOffset": 516
+                },
+                "from": {
+                    "file": "/Users/nguyentruong/.android/build-cache/3fbc4e477ae86e33c74ad40a8c5458c2b5c0ae50/output/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 371,
+                        "endColumn": 149,
+                        "endOffset": 516
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 521,
+                    "endColumn": 149,
+                    "endOffset": 666
+                },
+                "from": {
+                    "file": "/Users/nguyentruong/.android/build-cache/3fbc4e477ae86e33c74ad40a8c5458c2b5c0ae50/output/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 521,
+                        "endColumn": 149,
+                        "endOffset": 666
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 671,
+                    "endColumn": 144,
+                    "endOffset": 811
+                },
+                "from": {
+                    "file": "/Users/nguyentruong/.android/build-cache/3fbc4e477ae86e33c74ad40a8c5458c2b5c0ae50/output/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 671,
+                        "endColumn": 144,
+                        "endOffset": 811
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 816,
+                    "endColumn": 125,
+                    "endOffset": 937
+                },
+                "from": {
+                    "file": "/Users/nguyentruong/.android/build-cache/3fbc4e477ae86e33c74ad40a8c5458c2b5c0ae50/output/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 816,
+                        "endColumn": 125,
+                        "endOffset": 937
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 942,
+                    "endColumn": 141,
+                    "endOffset": 1079
+                },
+                "from": {
+                    "file": "/Users/nguyentruong/.android/build-cache/3fbc4e477ae86e33c74ad40a8c5458c2b5c0ae50/output/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 942,
+                        "endColumn": 141,
+                        "endOffset": 1079
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 1084,
+                    "endColumn": 130,
+                    "endOffset": 1210
+                },
+                "from": {
+                    "file": "/Users/nguyentruong/.android/build-cache/3fbc4e477ae86e33c74ad40a8c5458c2b5c0ae50/output/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1084,
+                        "endColumn": 130,
+                        "endOffset": 1210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1215,
+                    "endColumn": 164,
+                    "endOffset": 1375
+                },
+                "from": {
+                    "file": "/Users/nguyentruong/.android/build-cache/3fbc4e477ae86e33c74ad40a8c5458c2b5c0ae50/output/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1215,
+                        "endColumn": 164,
+                        "endOffset": 1375
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1380,
+                    "endColumn": 137,
+                    "endOffset": 1513
+                },
+                "from": {
+                    "file": "/Users/nguyentruong/.android/build-cache/3fbc4e477ae86e33c74ad40a8c5458c2b5c0ae50/output/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1380,
+                        "endColumn": 137,
+                        "endOffset": 1513
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1518,
+                    "endColumn": 108,
+                    "endOffset": 1622
+                },
+                "from": {
+                    "file": "/Users/nguyentruong/.android/build-cache/3fbc4e477ae86e33c74ad40a8c5458c2b5c0ae50/output/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1518,
+                        "endColumn": 108,
+                        "endOffset": 1622
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1627,
+                    "endColumn": 103,
+                    "endOffset": 1726
+                },
+                "from": {
+                    "file": "/Users/nguyentruong/.android/build-cache/3fbc4e477ae86e33c74ad40a8c5458c2b5c0ae50/output/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1627,
+                        "endColumn": 103,
+                        "endOffset": 1726
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1731,
+                    "endColumn": 82,
+                    "endOffset": 1809
+                },
+                "from": {
+                    "file": "/Users/nguyentruong/.android/build-cache/3fbc4e477ae86e33c74ad40a8c5458c2b5c0ae50/output/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1731,
+                        "endColumn": 82,
+                        "endOffset": 1809
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1814,
+                    "endColumn": 107,
+                    "endOffset": 1917
+                },
+                "from": {
+                    "file": "/Users/nguyentruong/.android/build-cache/09251c0a863548ff82f32ab782c7fc5257faab2d/output/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 107,
+                        "endOffset": 158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1922,
+                    "endColumn": 117,
+                    "endOffset": 2035
+                },
+                "from": {
+                    "file": "/Users/nguyentruong/.android/build-cache/09251c0a863548ff82f32ab782c7fc5257faab2d/output/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 163,
+                        "endColumn": 117,
+                        "endOffset": 276
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 2040,
+                    "endColumn": 129,
+                    "endOffset": 2165
+                },
+                "from": {
+                    "file": "/Users/nguyentruong/.android/build-cache/09251c0a863548ff82f32ab782c7fc5257faab2d/output/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 281,
+                        "endColumn": 129,
+                        "endOffset": 406
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 2170,
+                    "endColumn": 114,
+                    "endOffset": 2280
+                },
+                "from": {
+                    "file": "/Users/nguyentruong/.android/build-cache/09251c0a863548ff82f32ab782c7fc5257faab2d/output/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 411,
+                        "endColumn": 114,
+                        "endOffset": 521
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 2285,
+                    "endColumn": 114,
+                    "endOffset": 2395
+                },
+                "from": {
+                    "file": "/Users/nguyentruong/.android/build-cache/09251c0a863548ff82f32ab782c7fc5257faab2d/output/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 526,
+                        "endColumn": 114,
+                        "endOffset": 636
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2400,
+                    "endColumn": 87,
+                    "endOffset": 2483
+                },
+                "from": {
+                    "file": "/Users/nguyentruong/.android/build-cache/09251c0a863548ff82f32ab782c7fc5257faab2d/output/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 641,
+                        "endColumn": 87,
+                        "endOffset": 724
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2488,
+                    "endColumn": 98,
+                    "endOffset": 2582
+                },
+                "from": {
+                    "file": "/Users/nguyentruong/.android/build-cache/09251c0a863548ff82f32ab782c7fc5257faab2d/output/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 729,
+                        "endColumn": 98,
+                        "endOffset": 823
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2587,
+                    "endColumn": 116,
+                    "endOffset": 2699
+                },
+                "from": {
+                    "file": "/Users/nguyentruong/.android/build-cache/09251c0a863548ff82f32ab782c7fc5257faab2d/output/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 828,
+                        "endColumn": 116,
+                        "endOffset": 940
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2704,
+                    "endColumn": 97,
+                    "endOffset": 2797
+                },
+                "from": {
+                    "file": "/Users/nguyentruong/.android/build-cache/09251c0a863548ff82f32ab782c7fc5257faab2d/output/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 945,
+                        "endColumn": 97,
+                        "endOffset": 1038
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2802,
+                    "endColumn": 94,
+                    "endOffset": 2892
+                },
+                "from": {
+                    "file": "/Users/nguyentruong/.android/build-cache/09251c0a863548ff82f32ab782c7fc5257faab2d/output/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1043,
+                        "endColumn": 94,
+                        "endOffset": 1133
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2897,
+                    "endColumn": 100,
+                    "endOffset": 2993
+                },
+                "from": {
+                    "file": "/Users/nguyentruong/.android/build-cache/09251c0a863548ff82f32ab782c7fc5257faab2d/output/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1138,
+                        "endColumn": 100,
+                        "endOffset": 1234
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2998,
+                    "endColumn": 90,
+                    "endOffset": 3084
+                },
+                "from": {
+                    "file": "/Users/nguyentruong/.android/build-cache/09251c0a863548ff82f32ab782c7fc5257faab2d/output/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1239,
+                        "endColumn": 90,
+                        "endOffset": 1325
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 3089,
+                    "endColumn": 122,
+                    "endOffset": 3207
+                },
+                "from": {
+                    "file": "/Users/nguyentruong/.android/build-cache/09251c0a863548ff82f32ab782c7fc5257faab2d/output/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1330,
+                        "endColumn": 122,
+                        "endOffset": 1448
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 3212,
+                    "endColumn": 111,
+                    "endOffset": 3319
+                },
+                "from": {
+                    "file": "/Users/nguyentruong/.android/build-cache/09251c0a863548ff82f32ab782c7fc5257faab2d/output/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1453,
+                        "endColumn": 111,
+                        "endOffset": 1560
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 3324,
+                    "endColumn": 83,
+                    "endOffset": 3403
+                },
+                "from": {
+                    "file": "/Users/nguyentruong/.android/build-cache/09251c0a863548ff82f32ab782c7fc5257faab2d/output/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1565,
+                        "endColumn": 83,
+                        "endOffset": 1644
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3408,
+                    "endColumn": 82,
+                    "endOffset": 3486
+                },
+                "from": {
+                    "file": "/Users/nguyentruong/.android/build-cache/09251c0a863548ff82f32ab782c7fc5257faab2d/output/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1649,
+                        "endColumn": 82,
+                        "endOffset": 1727
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3491,
+                    "endColumn": 98,
+                    "endOffset": 3585
+                },
+                "from": {
+                    "file": "/Users/nguyentruong/.android/build-cache/09251c0a863548ff82f32ab782c7fc5257faab2d/output/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1732,
+                        "endColumn": 98,
+                        "endOffset": 1826
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3590,
+                    "endColumn": 99,
+                    "endOffset": 3685
+                },
+                "from": {
+                    "file": "/Users/nguyentruong/.android/build-cache/09251c0a863548ff82f32ab782c7fc5257faab2d/output/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1831,
+                        "endColumn": 99,
+                        "endOffset": 1926
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 3690,
+                    "endColumn": 86,
+                    "endOffset": 3772
+                },
+                "from": {
+                    "file": "/Users/nguyentruong/.android/build-cache/09251c0a863548ff82f32ab782c7fc5257faab2d/output/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1931,
+                        "endColumn": 86,
+                        "endOffset": 2013
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 3777,
+                    "endColumn": 99,
+                    "endOffset": 3872
+                },
+                "from": {
+                    "file": "/Users/nguyentruong/.android/build-cache/09251c0a863548ff82f32ab782c7fc5257faab2d/output/res/values-ka-rGE/values-ka-rGE.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2018,
+                        "endColumn": 99,
+                        "endOffset": 2113
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="1087209702421076105" name="fingerprint_acquired_imager_dirty">"ඇඟිලි සලකුණු සංවේදකය අපිරිසිදුයි. කරුණාකර පිරිසිදු කර නැවත උත්සාහ කරන්න."</string>
+    <string msgid="4596546021310923214" name="fingerprint_acquired_insufficient">"ඇඟිලි සලකුණ පිරිසැකසීමට නොහැකි විය. කරුණාකර නැවත උත්සාහ කරන්න."</string>
+    <string msgid="735082772341716043" name="fingerprint_acquired_partial">"ඇඟිලි සලකුණ අඩ වශයෙන් අනාවරණය කර ගැනිණි. කරුණාකර නැවත උත්සාහ කරන්න."</string>
+    <string msgid="6470642383109155969" name="fingerprint_acquired_too_fast">"ඇඟිල්ල ඉතා වේගයෙන් ගෙන යන ලදී. කරුණාකර නැවත උත්සාහ කරන්න."</string>
+    <string msgid="59250885689661653" name="fingerprint_acquired_too_slow">"ඇඟිල්ල වඩා සෙමෙන් ගෙන යන ලදි. කරුණාකර නැවත උත්සාහ කරන්න."</string>
+    <string msgid="4402024612660774395" name="fingerprint_error_canceled">"ඇඟිලි සලකුණු මෙහෙයුම අවලංගු කරන ලදී."</string>
+    <string msgid="7955921658939936596" name="fingerprint_error_hw_not_available">"ඇඟිලි සලකුණු දෘඪාංගය ලද නොහැකිය."</string>
+    <string msgid="5536934748136933450" name="fingerprint_error_lockout">"උත්සාහයන් ඉතා වැඩි ගණනකි. කරුණාකර පසුව නැවත උත්සාහ කරන්න."</string>
+    <string msgid="1055819001126053318" name="fingerprint_error_no_space">"ඇඟිලි සලකුණ ගබඩා කළ නොහැක. දැනට පවතින ඇඟිලි සලකුණක් ඉවත් කරන්න."</string>
+    <string msgid="3927186043737732875" name="fingerprint_error_timeout">"ඇඟිලි සලකුණු කාල නිමාව ළඟා විය. නැවත උත්සාහ කරන්න."</string>
+    <string msgid="6107816084103552441" name="fingerprint_error_unable_to_process">"නැවත උත්සාහ කරන්න."</string>
+    <string msgid="2690661881608146617" name="fingerprint_not_recognized">"අඳුනාගත නොහැක"</string>
+    <string msgid="4516019619850763049" name="fingerprints">"ඇඟිලි සලකුණු:"</string>
+    <string msgid="3698378085901466129" name="mr_button_content_description">"විකාශ බොත්තම"</string>
+    <string msgid="5088427771788648085" name="mr_cast_button_connected">"විකාශ බොත්තම සම්බන්ධ කරන ලදී"</string>
+    <string msgid="2187642765091873834" name="mr_cast_button_connecting">"විකාශ බොත්තම සම්බන්ධ කරමින්"</string>
+    <string msgid="816305490427819240" name="mr_cast_button_disconnected">"විකාශ බොත්තම. විසන්ධි කරන ලදී"</string>
+    <string msgid="6349900579507521956" name="mr_chooser_searching">"උපාංග සෙවීම"</string>
+    <string msgid="414301941546135990" name="mr_chooser_title">"විකාශය"</string>
+    <string msgid="6422801843540543585" name="mr_controller_album_art">"ඇල්බම කලාව"</string>
+    <string msgid="4868457957151124867" name="mr_controller_casting_screen">"විකාශ තිරය"</string>
+    <string msgid="7333862312480583260" name="mr_controller_close_description">"වසන්න"</string>
+    <string msgid="7924809056904240926" name="mr_controller_collapse_group">"හකුළන්න"</string>
+    <string msgid="1227264889412989580" name="mr_controller_disconnect">"විසන්ධි කරන්න"</string>
+    <string msgid="8062427022744266907" name="mr_controller_expand_group">"දිග හරින්න"</string>
+    <string msgid="5585418471741142924" name="mr_controller_no_info_available">"ලබා ගත හැකි තොරතුරු නොමැත"</string>
+    <string msgid="6547130360349182381" name="mr_controller_no_media_selected">"මාධ්‍යය තෝරා නැත"</string>
+    <string msgid="5451884435510905406" name="mr_controller_pause">"විරාම ගන්වන්න"</string>
+    <string msgid="683634565969987458" name="mr_controller_play">"ධාවනය කරන්න"</string>
+    <string msgid="4570331844078181931" name="mr_controller_stop">"විකාශ කිරීම නවත්වන්න"</string>
+    <string msgid="2361785992211841709" name="mr_controller_volume_slider">"හඬ පරිමා ස්ලයිඩරය"</string>
+    <string msgid="5441529851481176817" name="mr_system_route_name">"පද්ධතිය"</string>
+    <string msgid="7498112907524977311" name="mr_user_route_category_name">"උපාංග"</string>
+</resources>

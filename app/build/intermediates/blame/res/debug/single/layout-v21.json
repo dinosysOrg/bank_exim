@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/e71a21192b8cd76f646cbe0ecfd41f47bf5aac22/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/e71a21192b8cd76f646cbe0ecfd41f47bf5aac22/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/f18f460c8c7de75e0820df2555c770899c680f7f/output/res/layout-v21/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/e71a21192b8cd76f646cbe0ecfd41f47bf5aac22/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/e71a21192b8cd76f646cbe0ecfd41f47bf5aac22/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

@@ -1,0 +1,410 @@
+[
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/pin_dialog.xml",
+        "source": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/res/layout/pin_dialog.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/42a703d1140ed47c2f097df44ff776b7c0d9b7cc/output/res/layout/cast_tracks_chooser_dialog_row_layout.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/32a3f15d1f6fb2001f528a772ad5bbb2ca9083f2/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/activity_qrscan.xml",
+        "source": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/res/layout/activity_qrscan.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/dc28a5411359c69f00070db172b7f591a2f6f314/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/spinner_item_dropdown.xml",
+        "source": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/res/layout/spinner_item_dropdown.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/32a3f15d1f6fb2001f528a772ad5bbb2ca9083f2/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/dc28a5411359c69f00070db172b7f591a2f6f314/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/dc28a5411359c69f00070db172b7f591a2f6f314/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/32a3f15d1f6fb2001f528a772ad5bbb2ca9083f2/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_powered_by_google.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/f18f460c8c7de75e0820df2555c770899c680f7f/output/res/layout/place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/e2c3853c9947bc29040177de3154f5c0de968e22/output/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/cast_mini_controller.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/42a703d1140ed47c2f097df44ff776b7c0d9b7cc/output/res/layout/cast_mini_controller.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/dc28a5411359c69f00070db172b7f591a2f6f314/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/item_contact.xml",
+        "source": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/res/layout/item_contact.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/dc28a5411359c69f00070db172b7f591a2f6f314/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/e2c3853c9947bc29040177de3154f5c0de968e22/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/e71a21192b8cd76f646cbe0ecfd41f47bf5aac22/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/import_screen.xml",
+        "source": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/res/layout/import_screen.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/32a3f15d1f6fb2001f528a772ad5bbb2ca9083f2/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/mr_controller_volume_item.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/09251c0a863548ff82f32ab782c7fc5257faab2d/output/res/layout/mr_controller_volume_item.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/fragment_transaction_four.xml",
+        "source": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/res/layout/fragment_transaction_four.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/popup_contact_save.xml",
+        "source": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/res/layout/popup_contact_save.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/32a3f15d1f6fb2001f528a772ad5bbb2ca9083f2/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/dc28a5411359c69f00070db172b7f591a2f6f314/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/dc28a5411359c69f00070db172b7f591a2f6f314/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/32a3f15d1f6fb2001f528a772ad5bbb2ca9083f2/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/place_autocomplete_progress.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/f18f460c8c7de75e0820df2555c770899c680f7f/output/res/layout/place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/e71a21192b8cd76f646cbe0ecfd41f47bf5aac22/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/dc28a5411359c69f00070db172b7f591a2f6f314/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/dc28a5411359c69f00070db172b7f591a2f6f314/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/32a3f15d1f6fb2001f528a772ad5bbb2ca9083f2/output/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/e2c3853c9947bc29040177de3154f5c0de968e22/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/fragment_transaction_first.xml",
+        "source": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/res/layout/fragment_transaction_first.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/dc28a5411359c69f00070db172b7f591a2f6f314/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/32a3f15d1f6fb2001f528a772ad5bbb2ca9083f2/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/dc28a5411359c69f00070db172b7f591a2f6f314/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/dc28a5411359c69f00070db172b7f591a2f6f314/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/place_autocomplete_fragment.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/f18f460c8c7de75e0820df2555c770899c680f7f/output/res/layout/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/about_screen.xml",
+        "source": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/res/layout/about_screen.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/mr_controller_material_dialog_b.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/09251c0a863548ff82f32ab782c7fc5257faab2d/output/res/layout/mr_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/dc28a5411359c69f00070db172b7f591a2f6f314/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/actionbar.xml",
+        "source": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/res/layout/actionbar.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/e2c3853c9947bc29040177de3154f5c0de968e22/output/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/dc28a5411359c69f00070db172b7f591a2f6f314/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/activity_intent.xml",
+        "source": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/res/layout/activity_intent.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/activity_transaction_detail.xml",
+        "source": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/res/layout/activity_transaction_detail.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/dc28a5411359c69f00070db172b7f591a2f6f314/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/item_transaction.xml",
+        "source": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/res/layout/item_transaction.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/e2c3853c9947bc29040177de3154f5c0de968e22/output/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/mr_chooser_dialog.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/09251c0a863548ff82f32ab782c7fc5257faab2d/output/res/layout/mr_chooser_dialog.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/32a3f15d1f6fb2001f528a772ad5bbb2ca9083f2/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_prediction.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/f18f460c8c7de75e0820df2555c770899c680f7f/output/res/layout/place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/e71a21192b8cd76f646cbe0ecfd41f47bf5aac22/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/dc28a5411359c69f00070db172b7f591a2f6f314/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_custom.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/e2c3853c9947bc29040177de3154f5c0de968e22/output/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/32a3f15d1f6fb2001f528a772ad5bbb2ca9083f2/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/popup_message.xml",
+        "source": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/res/layout/popup_message.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/cast_help_text.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/42a703d1140ed47c2f097df44ff776b7c0d9b7cc/output/res/layout/cast_help_text.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/dc28a5411359c69f00070db172b7f591a2f6f314/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/dc28a5411359c69f00070db172b7f591a2f6f314/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/32a3f15d1f6fb2001f528a772ad5bbb2ca9083f2/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/mr_volume_control.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/09251c0a863548ff82f32ab782c7fc5257faab2d/output/res/layout/mr_volume_control.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/32a3f15d1f6fb2001f528a772ad5bbb2ca9083f2/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/txverify_dialog.xml",
+        "source": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/res/layout/txverify_dialog.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/dc28a5411359c69f00070db172b7f591a2f6f314/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/dc28a5411359c69f00070db172b7f591a2f6f314/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/password_dialog.xml",
+        "source": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/res/layout/password_dialog.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/e2c3853c9947bc29040177de3154f5c0de968e22/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/cast_intro_overlay.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/42a703d1140ed47c2f097df44ff776b7c0d9b7cc/output/res/layout/cast_intro_overlay.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/mr_playback_control.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/09251c0a863548ff82f32ab782c7fc5257faab2d/output/res/layout/mr_playback_control.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/32a3f15d1f6fb2001f528a772ad5bbb2ca9083f2/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/popup_transaction_fail.xml",
+        "source": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/res/layout/popup_transaction_fail.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/cast_expanded_controller_activity.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/42a703d1140ed47c2f097df44ff776b7c0d9b7cc/output/res/layout/cast_expanded_controller_activity.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/32a3f15d1f6fb2001f528a772ad5bbb2ca9083f2/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/dc28a5411359c69f00070db172b7f591a2f6f314/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/dc28a5411359c69f00070db172b7f591a2f6f314/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/dc28a5411359c69f00070db172b7f591a2f6f314/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/popup_password.xml",
+        "source": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/res/layout/popup_password.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/dc28a5411359c69f00070db172b7f591a2f6f314/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/activity_transaction.xml",
+        "source": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/res/layout/activity_transaction.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/dc28a5411359c69f00070db172b7f591a2f6f314/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/fragment_transaction_third.xml",
+        "source": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/res/layout/fragment_transaction_third.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/activity_home.xml",
+        "source": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/spinner_item.xml",
+        "source": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/res/layout/spinner_item.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/popup_finger.xml",
+        "source": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/res/layout/popup_finger.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/e2c3853c9947bc29040177de3154f5c0de968e22/output/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/dc28a5411359c69f00070db172b7f591a2f6f314/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/e2c3853c9947bc29040177de3154f5c0de968e22/output/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/dc28a5411359c69f00070db172b7f591a2f6f314/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/e71a21192b8cd76f646cbe0ecfd41f47bf5aac22/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/dc28a5411359c69f00070db172b7f591a2f6f314/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/fragment_transaction_second.xml",
+        "source": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/res/layout/fragment_transaction_second.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/item_card.xml",
+        "source": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/res/layout/item_card.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/mr_chooser_list_item.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/09251c0a863548ff82f32ab782c7fc5257faab2d/output/res/layout/mr_chooser_list_item.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/dc28a5411359c69f00070db172b7f591a2f6f314/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/e71a21192b8cd76f646cbe0ecfd41f47bf5aac22/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/dc28a5411359c69f00070db172b7f591a2f6f314/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/cast_tracks_chooser_dialog_layout.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/42a703d1140ed47c2f097df44ff776b7c0d9b7cc/output/res/layout/cast_tracks_chooser_dialog_layout.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/github/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout/abc_tooltip.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/dc28a5411359c69f00070db172b7f591a2f6f314/output/res/layout/abc_tooltip.xml"
+    }
+]

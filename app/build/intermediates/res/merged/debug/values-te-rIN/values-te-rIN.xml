@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="1087209702421076105" name="fingerprint_acquired_imager_dirty">"వేలిముద్ర సెన్సార్ మురికిగా ఉంది. దయచేసి శుభ్రపరిచి, మళ్లీ ప్రయత్నించండి."</string>
+    <string msgid="4596546021310923214" name="fingerprint_acquired_insufficient">"వేలిముద్రను ప్రాసెస్ చేయడం సాధ్యపడలేదు. దయచేసి మళ్లీ ప్రయత్నించండి."</string>
+    <string msgid="735082772341716043" name="fingerprint_acquired_partial">"పాక్షిక వేలిముద్ర గుర్తించబడింది. దయచేసి మళ్లీ ప్రయత్నించండి."</string>
+    <string msgid="6470642383109155969" name="fingerprint_acquired_too_fast">"వేలిని చాలా వేగంగా తీసేసారు. దయచేసి మళ్లీ ప్రయత్నించండి."</string>
+    <string msgid="59250885689661653" name="fingerprint_acquired_too_slow">"వేలిని చాలా నెమ్మదిగా కదిలించారు. దయచేసి మళ్లీ ప్రయత్నించండి."</string>
+    <string msgid="4402024612660774395" name="fingerprint_error_canceled">"వేలిముద్ర కార్యాచరణ రద్దయింది."</string>
+    <string msgid="7955921658939936596" name="fingerprint_error_hw_not_available">"వేలిముద్ర హార్డ్‌వేర్ అందుబాటులో లేదు."</string>
+    <string msgid="5536934748136933450" name="fingerprint_error_lockout">"చాలా ఎక్కువ ప్రయత్నాలు చేసారు. తర్వాత మళ్లీ ప్రయత్నించండి."</string>
+    <string msgid="1055819001126053318" name="fingerprint_error_no_space">"వేలిముద్రను నిల్వ చేయడం సాధ్యపడదు. దయచేసి ఇప్పటికే ఉన్న వేలిముద్రను తీసివేయండి."</string>
+    <string msgid="3927186043737732875" name="fingerprint_error_timeout">"వేలిముద్ర గడువు సమయం చేరుకుంది. మళ్లీ ప్రయత్నించండి."</string>
+    <string msgid="6107816084103552441" name="fingerprint_error_unable_to_process">"మళ్లీ ప్రయత్నించండి."</string>
+    <string msgid="2690661881608146617" name="fingerprint_not_recognized">"గుర్తించలేదు"</string>
+    <string msgid="4516019619850763049" name="fingerprints">"వేలిముద్రలు:"</string>
+    <string msgid="3698378085901466129" name="mr_button_content_description">"ప్రసారం చేయి బటన్"</string>
+    <string msgid="5088427771788648085" name="mr_cast_button_connected">"ప్రసార బటన్. కనెక్ట్ చేయబడింది"</string>
+    <string msgid="2187642765091873834" name="mr_cast_button_connecting">"ప్రసార బటన్. కనెక్ట్ చేస్తోంది"</string>
+    <string msgid="816305490427819240" name="mr_cast_button_disconnected">"ప్రసార బటన్. డిస్‌కనెక్ట్ చేయబడింది"</string>
+    <string msgid="6349900579507521956" name="mr_chooser_searching">"పరికరాలను కనుగొంటోంది"</string>
+    <string msgid="414301941546135990" name="mr_chooser_title">"దీనికి ప్రసారం చేయండి"</string>
+    <string msgid="6422801843540543585" name="mr_controller_album_art">"ఆల్బమ్ ఆర్ట్"</string>
+    <string msgid="4868457957151124867" name="mr_controller_casting_screen">"స్క్రీన్‌ను ప్రసారం చేస్తోంది"</string>
+    <string msgid="7333862312480583260" name="mr_controller_close_description">"మూసివేస్తుంది"</string>
+    <string msgid="7924809056904240926" name="mr_controller_collapse_group">"కుదిస్తుంది"</string>
+    <string msgid="1227264889412989580" name="mr_controller_disconnect">"డిస్‌కనెక్ట్ చేయి"</string>
+    <string msgid="8062427022744266907" name="mr_controller_expand_group">"విస్తరింపజేస్తుంది"</string>
+    <string msgid="5585418471741142924" name="mr_controller_no_info_available">"సమాచారం అందుబాటులో లేదు"</string>
+    <string msgid="6547130360349182381" name="mr_controller_no_media_selected">"మీడియా ఏదీ ఎంచుకోబడలేదు"</string>
+    <string msgid="5451884435510905406" name="mr_controller_pause">"పాజ్ చేస్తుంది"</string>
+    <string msgid="683634565969987458" name="mr_controller_play">"ప్లే చేస్తుంది"</string>
+    <string msgid="4570331844078181931" name="mr_controller_stop">"ప్రసారాన్ని ఆపివేయి"</string>
+    <string msgid="2361785992211841709" name="mr_controller_volume_slider">"వాల్యూమ్ స్లయిడర్"</string>
+    <string msgid="5441529851481176817" name="mr_system_route_name">"సిస్టమ్"</string>
+    <string msgid="7498112907524977311" name="mr_user_route_category_name">"పరికరాలు"</string>
+</resources>

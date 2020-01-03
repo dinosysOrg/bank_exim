@@ -1,0 +1,546 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:2:1-105:12
+	package
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/nguyentruong/.android/build-cache/05521641964a9801fe81a0e9893e00eef5ebe650/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/nguyentruong/.android/build-cache/32a3f15d1f6fb2001f528a772ad5bbb2ca9083f2/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/nguyentruong/.android/build-cache/e134f42c2ed68eae95ac471ed919f31dd99f7895/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/nguyentruong/.android/build-cache/dc018a68ecd1e4b898f787bff7d10e608e261a3d/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services:11.0.4] /Users/nguyentruong/.android/build-cache/db50fab0c735f53540f3b94dda7589637d7e47ca/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads:11.0.4] /Users/nguyentruong/.android/build-cache/8e93b3c2911366fc3d15a6acb47422ace569fb42/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/nguyentruong/.android/build-cache/781e1995b4895dd9312c3fa4e450c29d6ff55d5b/output/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/nguyentruong/.android/build-cache/b6767e4723f6f8654b06ae2d6a0ee40c8cfd3140/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/nguyentruong/.android/build-cache/3d27f12a8ec08c9c6e59018fd591ca0ca48ccc3f/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.0.4] /Users/nguyentruong/.android/build-cache/ac601edde732a782b72c7cfd07876aa018b388fc/output/AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] /Users/nguyentruong/.android/build-cache/125fdebc6e5ebc40ae2167ce3b8ce878480096d4/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.4] /Users/nguyentruong/.android/build-cache/c3de49034a9b72d959c469ec2af0321343682667/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/nguyentruong/.android/build-cache/42a703d1140ed47c2f097df44ff776b7c0d9b7cc/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast:11.0.4] /Users/nguyentruong/.android/build-cache/4bc3152dab07133490d041fbc00f7a5ebd410118/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:mediarouter-v7:25.2.0] /Users/nguyentruong/.android/build-cache/09251c0a863548ff82f32ab782c7fc5257faab2d/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/nguyentruong/.android/build-cache/dc28a5411359c69f00070db172b7f591a2f6f314/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/nguyentruong/.android/build-cache/529c46038e22909496b2a465adde8cd4b3cf12d0/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/nguyentruong/.android/build-cache/9f273f7097bece8aca9306d9bf9df87b1b5b5bc2/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:25.2.0] /Users/nguyentruong/.android/build-cache/fae3640e7d38e22080bc6d5928b3300bf6d3ddf5/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /Users/nguyentruong/.android/build-cache/3a9aed624920ae6357ab305af54bbdb86aea138b/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:11.0.4] /Users/nguyentruong/.android/build-cache/14a7f22db84bc9d6c719c37acf728e35001388a6/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:11.0.4] /Users/nguyentruong/.android/build-cache/797ce05a27ffe61dbc1659bbb13fe01a54270919/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-crash:11.0.4] /Users/nguyentruong/.android/build-cache/cc42c3eb4df8b17bfb5fd691fa05377de7287980/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-auth:11.0.4] /Users/nguyentruong/.android/build-cache/23c9d9fe63baf1265012e6f84f3139a24e2ccc10/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:11.0.4] /Users/nguyentruong/.android/build-cache/002ac868610ef8c01089da9125a8d22675a88381/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] /Users/nguyentruong/.android/build-cache/7789184900f0e31dfee8e4431a75fdc827010f39/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.4] /Users/nguyentruong/.android/build-cache/35f8a9ecd319e8a157c01c4f2017f8792c822f4f/output/AndroidManifest.xml:3:3-41
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] /Users/nguyentruong/.android/build-cache/0dfb90f4c558655727a13812e3ce313546cacc5a/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-storage:11.0.4] /Users/nguyentruong/.android/build-cache/f9961b770cf970e141998d3bf8db86acb23580da/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.0.4] /Users/nguyentruong/.android/build-cache/bed2ca11f79ecdc1e5ed31e726e51f76f3ae69ce/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-fitness:11.0.4] /Users/nguyentruong/.android/build-cache/c4830a0e6c892ce838cd6ba045a2393bcedd948a/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:11.0.4] /Users/nguyentruong/.android/build-cache/b132c054f971599bf4798a4e7dde6e0677147e89/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:11.0.4] /Users/nguyentruong/.android/build-cache/d820fda8beb6031064a3bd86c30dc51d9148bbc6/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] /Users/nguyentruong/.android/build-cache/58dec1f8eb57907c2fcd99ee724be171a838f1cb/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/nguyentruong/.android/build-cache/949fd96dc53c2d9b4fe50fd4f3bdf2d4abcff601/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:11.0.4] /Users/nguyentruong/.android/build-cache/07e153b054ba0f82d12ca568409071ddf03f1e95/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/nguyentruong/.android/build-cache/aa3e3605824a5603170eb8160b3fa63ef4e8e305/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:11.0.4] /Users/nguyentruong/.android/build-cache/4cc71294da8de1e28d715ce0b42f24f651458908/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:11.0.4] /Users/nguyentruong/.android/build-cache/8d50fc3599df2684bb85d397ab4a94f8501d2f61/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] /Users/nguyentruong/.android/build-cache/b675d14cbb74ee7666ba412ad98490ed1e5bb48e/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-panorama:11.0.4] /Users/nguyentruong/.android/build-cache/a41d2e983bef25f9da46d51d50db878cd70f1e69/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places:11.0.4] /Users/nguyentruong/.android/build-cache/f18f460c8c7de75e0820df2555c770899c680f7f/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:11.0.4] /Users/nguyentruong/.android/build-cache/ba5675e7a05e4cb2c1b8c42757b2981f4bd5f4e8/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /Users/nguyentruong/.android/build-cache/5e88a02bc3f15bd4acaa6d049c18a92ef75958fb/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:11.0.4] /Users/nguyentruong/.android/build-cache/c279b5de4d049f49f6511f79d0952a13f42652e3/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/nguyentruong/.android/build-cache/b08b11c85037446b0b191ec491c769d2390215d7/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/nguyentruong/.android/build-cache/f9f159b61161bf2bfe8e5cc6696a6d0a7ccf9924/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/nguyentruong/.android/build-cache/67870a905d8f982650a980ade5dfac5e67077e0c/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/nguyentruong/.android/build-cache/e84a0f806a4518957a89af14dbf892b7e61706d7/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.4] /Users/nguyentruong/.android/build-cache/02cd5e6ee1a62c277a78eb87b99e36573b00d87b/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] /Users/nguyentruong/.android/build-cache/29f42d1aad71ae0e98ce1042221c15915674a1bf/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/nguyentruong/.android/build-cache/f1a6baffdec608e30d64d96aa0603ca0694bb639/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] /Users/nguyentruong/.android/build-cache/75490431b1411eace4c862788e3bca83e1afd5cb/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] /Users/nguyentruong/.android/build-cache/18ff4951617345bc92b7fad8ccaa21ada49424a2/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-wallet:11.0.4] /Users/nguyentruong/.android/build-cache/1ae0554812dabfd8ae372abd61b8759101987b5b/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-identity:11.0.4] /Users/nguyentruong/.android/build-cache/f622e77a45a1e35b499ed4e1b08115e0079d419e/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/nguyentruong/.android/build-cache/89bb45156cfa74a94c6e8e44907bb06e6b48d83a/output/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-wearable:11.0.4] /Users/nguyentruong/.android/build-cache/2dced430b9ffe13b19441862d6a814ab12945c9c/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/nguyentruong/.android/build-cache/3df3547456eee37582a7052f28e33b14639f2185/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/nguyentruong/.android/build-cache/8f8718726ca3174d1354a86ce28aa520970efc8b/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/nguyentruong/.android/build-cache/ec105f057fb6922c05c3f6540be3f8a4360312b0/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:27.1.1] /Users/nguyentruong/.android/build-cache/32ca8df4c0c846ada540eec53f1f9db9e79aed19/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/nguyentruong/.android/build-cache/e2c3853c9947bc29040177de3154f5c0de968e22/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/nguyentruong/.android/build-cache/79e06037c029d3bccdb9d18bef89ccac21af0a2c/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/nguyentruong/.android/build-cache/da2ac5da9c03de3c87f4cbd340bd7b743904d6b7/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/nguyentruong/.android/build-cache/dfa97b407beb42bcc204ce8a603cc2c96d4bd783/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/nguyentruong/.android/build-cache/e71a21192b8cd76f646cbe0ecfd41f47bf5aac22/output/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/nguyentruong/.android/build-cache/ae1b80e9d451ef97ccdf5ff4c38801ce5ec18a5d/output/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/nguyentruong/.android/build-cache/9cc3e89889b238b69aa66a1a1762243cc6115956/output/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/nguyentruong/.android/build-cache/f0dd233258c039e4e8f74ee442672a9a7df1ef7d/output/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/nguyentruong/.android/build-cache/afd465ac1b859311d55a9853c9bd68065058af7a/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] /Users/nguyentruong/.android/build-cache/6c05d26c6e4d0a986b96d95a242748a29b71a7f1/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:multidex:1.0.1] /Users/nguyentruong/.android/build-cache/818869720cb4cc1071f46d333d0de485d224e47f/output/AndroidManifest.xml:18:5-42
+MERGED from [com.github.ajalt.reprint:core:3.2.1] /Users/nguyentruong/.android/build-cache/3fbc4e477ae86e33c74ad40a8c5458c2b5c0ae50/output/AndroidManifest.xml:7:5-44
+	android:targetSdkVersion
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:8:9-38
+		INJECTED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:7:9-35
+		INJECTED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:10:22-72
+uses-permission#android.permission.INTERNET
+ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/nguyentruong/.android/build-cache/781e1995b4895dd9312c3fa4e450c29d6ff55d5b/output/AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/nguyentruong/.android/build-cache/b6767e4723f6f8654b06ae2d6a0ee40c8cfd3140/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/nguyentruong/.android/build-cache/3d27f12a8ec08c9c6e59018fd591ca0ca48ccc3f/output/AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:11.0.4] /Users/nguyentruong/.android/build-cache/cc42c3eb4df8b17bfb5fd691fa05377de7287980/output/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/nguyentruong/.android/build-cache/949fd96dc53c2d9b4fe50fd4f3bdf2d4abcff601/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/nguyentruong/.android/build-cache/aa3e3605824a5603170eb8160b3fa63ef4e8e305/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/nguyentruong/.android/build-cache/b08b11c85037446b0b191ec491c769d2390215d7/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/nguyentruong/.android/build-cache/f9f159b61161bf2bfe8e5cc6696a6d0a7ccf9924/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/nguyentruong/.android/build-cache/67870a905d8f982650a980ade5dfac5e67077e0c/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/nguyentruong/.android/build-cache/e84a0f806a4518957a89af14dbf892b7e61706d7/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/nguyentruong/.android/build-cache/f1a6baffdec608e30d64d96aa0603ca0694bb639/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/nguyentruong/.android/build-cache/89bb45156cfa74a94c6e8e44907bb06e6b48d83a/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/nguyentruong/.android/build-cache/781e1995b4895dd9312c3fa4e450c29d6ff55d5b/output/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/nguyentruong/.android/build-cache/b6767e4723f6f8654b06ae2d6a0ee40c8cfd3140/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] /Users/nguyentruong/.android/build-cache/b675d14cbb74ee7666ba412ad98490ed1e5bb48e/output/AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/nguyentruong/.android/build-cache/b08b11c85037446b0b191ec491c769d2390215d7/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/nguyentruong/.android/build-cache/f9f159b61161bf2bfe8e5cc6696a6d0a7ccf9924/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/nguyentruong/.android/build-cache/67870a905d8f982650a980ade5dfac5e67077e0c/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/nguyentruong/.android/build-cache/e84a0f806a4518957a89af14dbf892b7e61706d7/output/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/nguyentruong/.android/build-cache/f1a6baffdec608e30d64d96aa0603ca0694bb639/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/nguyentruong/.android/build-cache/89bb45156cfa74a94c6e8e44907bb06e6b48d83a/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:12:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:13:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:14:22-78
+uses-permission#android.permission.CAMERA
+ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:15:5-65
+	android:name
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:15:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:16:5-80
+	android:name
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:16:22-77
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:18:5-74
+MERGED from [com.github.ajalt.reprint:core:3.2.1] /Users/nguyentruong/.android/build-cache/3fbc4e477ae86e33c74ad40a8c5458c2b5c0ae50/output/AndroidManifest.xml:9:5-74
+	android:name
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:18:22-71
+application
+ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:20:5-103:19
+MERGED from [com.google.android.gms:play-services:11.0.4] /Users/nguyentruong/.android/build-cache/db50fab0c735f53540f3b94dda7589637d7e47ca/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/nguyentruong/.android/build-cache/781e1995b4895dd9312c3fa4e450c29d6ff55d5b/output/AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/nguyentruong/.android/build-cache/b6767e4723f6f8654b06ae2d6a0ee40c8cfd3140/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/nguyentruong/.android/build-cache/3d27f12a8ec08c9c6e59018fd591ca0ca48ccc3f/output/AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] /Users/nguyentruong/.android/build-cache/125fdebc6e5ebc40ae2167ce3b8ce878480096d4/output/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/nguyentruong/.android/build-cache/42a703d1140ed47c2f097df44ff776b7c0d9b7cc/output/AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:11.0.4] /Users/nguyentruong/.android/build-cache/4bc3152dab07133490d041fbc00f7a5ebd410118/output/AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:25.2.0] /Users/nguyentruong/.android/build-cache/09251c0a863548ff82f32ab782c7fc5257faab2d/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:palette-v7:25.2.0] /Users/nguyentruong/.android/build-cache/fae3640e7d38e22080bc6d5928b3300bf6d3ddf5/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /Users/nguyentruong/.android/build-cache/3a9aed624920ae6357ab305af54bbdb86aea138b/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:11.0.4] /Users/nguyentruong/.android/build-cache/14a7f22db84bc9d6c719c37acf728e35001388a6/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:11.0.4] /Users/nguyentruong/.android/build-cache/797ce05a27ffe61dbc1659bbb13fe01a54270919/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-crash:11.0.4] /Users/nguyentruong/.android/build-cache/cc42c3eb4df8b17bfb5fd691fa05377de7287980/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth:11.0.4] /Users/nguyentruong/.android/build-cache/23c9d9fe63baf1265012e6f84f3139a24e2ccc10/output/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.4] /Users/nguyentruong/.android/build-cache/35f8a9ecd319e8a157c01c4f2017f8792c822f4f/output/AndroidManifest.xml:5:3-17
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] /Users/nguyentruong/.android/build-cache/0dfb90f4c558655727a13812e3ce313546cacc5a/output/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-fitness:11.0.4] /Users/nguyentruong/.android/build-cache/c4830a0e6c892ce838cd6ba045a2393bcedd948a/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:11.0.4] /Users/nguyentruong/.android/build-cache/b132c054f971599bf4798a4e7dde6e0677147e89/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:11.0.4] /Users/nguyentruong/.android/build-cache/d820fda8beb6031064a3bd86c30dc51d9148bbc6/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] /Users/nguyentruong/.android/build-cache/58dec1f8eb57907c2fcd99ee724be171a838f1cb/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/nguyentruong/.android/build-cache/949fd96dc53c2d9b4fe50fd4f3bdf2d4abcff601/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-appindexing:11.0.4] /Users/nguyentruong/.android/build-cache/07e153b054ba0f82d12ca568409071ddf03f1e95/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/nguyentruong/.android/build-cache/aa3e3605824a5603170eb8160b3fa63ef4e8e305/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:11.0.4] /Users/nguyentruong/.android/build-cache/8d50fc3599df2684bb85d397ab4a94f8501d2f61/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] /Users/nguyentruong/.android/build-cache/b675d14cbb74ee7666ba412ad98490ed1e5bb48e/output/AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:11.0.4] /Users/nguyentruong/.android/build-cache/a41d2e983bef25f9da46d51d50db878cd70f1e69/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:11.0.4] /Users/nguyentruong/.android/build-cache/f18f460c8c7de75e0820df2555c770899c680f7f/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:11.0.4] /Users/nguyentruong/.android/build-cache/ba5675e7a05e4cb2c1b8c42757b2981f4bd5f4e8/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /Users/nguyentruong/.android/build-cache/5e88a02bc3f15bd4acaa6d049c18a92ef75958fb/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/nguyentruong/.android/build-cache/b08b11c85037446b0b191ec491c769d2390215d7/output/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/nguyentruong/.android/build-cache/f9f159b61161bf2bfe8e5cc6696a6d0a7ccf9924/output/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/nguyentruong/.android/build-cache/67870a905d8f982650a980ade5dfac5e67077e0c/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/nguyentruong/.android/build-cache/e84a0f806a4518957a89af14dbf892b7e61706d7/output/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.4] /Users/nguyentruong/.android/build-cache/02cd5e6ee1a62c277a78eb87b99e36573b00d87b/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] /Users/nguyentruong/.android/build-cache/29f42d1aad71ae0e98ce1042221c15915674a1bf/output/AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/nguyentruong/.android/build-cache/f1a6baffdec608e30d64d96aa0603ca0694bb639/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] /Users/nguyentruong/.android/build-cache/75490431b1411eace4c862788e3bca83e1afd5cb/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] /Users/nguyentruong/.android/build-cache/18ff4951617345bc92b7fad8ccaa21ada49424a2/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-identity:11.0.4] /Users/nguyentruong/.android/build-cache/f622e77a45a1e35b499ed4e1b08115e0079d419e/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/nguyentruong/.android/build-cache/89bb45156cfa74a94c6e8e44907bb06e6b48d83a/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-wearable:11.0.4] /Users/nguyentruong/.android/build-cache/2dced430b9ffe13b19441862d6a814ab12945c9c/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/nguyentruong/.android/build-cache/3df3547456eee37582a7052f28e33b14639f2185/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/nguyentruong/.android/build-cache/8f8718726ca3174d1354a86ce28aa520970efc8b/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/nguyentruong/.android/build-cache/ec105f057fb6922c05c3f6540be3f8a4360312b0/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] /Users/nguyentruong/.android/build-cache/6c05d26c6e4d0a986b96d95a242748a29b71a7f1/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:22:9-41
+	android:icon
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:21:9-42
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:23:9-25:39
+	android:value
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:24:13-70
+activity#com.rsa.eximbankapp.Activity.LoginActivity
+ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:27:9-41:20
+	android:screenOrientation
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:33:13-49
+	android:label
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:29:13-45
+	android:launchMode
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:30:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:32:13-73
+	android:theme
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:31:13-69
+	android:name
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:28:13-70
+intent-filter#android.intent.action.MAIN+android.intent.action.VIEW+android.intent.category.LAUNCHER
+ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:34:13-40:29
+action#android.intent.action.VIEW
+ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:35:25-66
+action#android.intent.action.MAIN
+ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:39:27-74
+activity#com.rsa.eximbankapp.Activity.HomeActivity
+ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:43:9-50:20
+	android:screenOrientation
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:49:13-49
+	android:label
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:45:13-45
+	android:launchMode
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:46:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:48:13-73
+	android:theme
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:47:13-69
+	android:name
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:44:13-69
+activity#com.rsa.eximbankapp.Activity.TransactionActivity
+ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:52:9-58:20
+	android:screenOrientation
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:57:13-49
+	android:label
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:54:13-45
+	android:windowSoftInputMode
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:56:13-73
+	android:theme
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:55:13-69
+	android:name
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:53:13-76
+activity#com.rsa.eximbankapp.Activity.TransactionDetailActivity
+ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:60:9-66:20
+	android:screenOrientation
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:65:13-49
+	android:label
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:62:13-45
+	android:windowSoftInputMode
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:64:13-73
+	android:theme
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:63:13-69
+	android:name
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:61:13-82
+activity#com.rsa.eximbankapp.Setting.SecurIDSampleActivity
+ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:70:9-75:20
+	android:screenOrientation
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:74:13-49
+	android:label
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:73:13-45
+	android:configChanges
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:72:13-48
+	android:name
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:71:13-77
+activity#com.rsa.eximbankapp.Setting.ImportTokenActivity
+ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:77:9-81:61
+	android:screenOrientation
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:81:13-49
+	android:label
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:80:13-45
+	android:configChanges
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:79:13-48
+	android:name
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:78:13-75
+activity#com.rsa.eximbankapp.FileAutoImportActivity
+ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:83:9-100:20
+	android:label
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:85:13-45
+	android:name
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:84:13-51
+intent-filter#android.intent.action.VIEW+android.intent.category.DEFAULT
+ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:86:13-99:29
+category#android.intent.category.DEFAULT
+ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:89:17-76
+	android:name
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:89:27-73
+data
+ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:91:17-94:48
+	android:scheme
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:94:21-45
+	android:pathPattern
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:93:21-53
+	android:mimeType
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:92:21-64
+activity#com.rsa.eximbankapp.Setting.QRScanActivity
+ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:102:9-88
+	android:name
+		ADDED from /Users/nguyentruong/github/dinovative/SoftTokenDemo/app/src/main/AndroidManifest.xml:102:19-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/nguyentruong/.android/build-cache/781e1995b4895dd9312c3fa4e450c29d6ff55d5b/output/AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/nguyentruong/.android/build-cache/781e1995b4895dd9312c3fa4e450c29d6ff55d5b/output/AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/nguyentruong/.android/build-cache/781e1995b4895dd9312c3fa4e450c29d6ff55d5b/output/AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/nguyentruong/.android/build-cache/781e1995b4895dd9312c3fa4e450c29d6ff55d5b/output/AndroidManifest.xml:25:19-71
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/nguyentruong/.android/build-cache/b6767e4723f6f8654b06ae2d6a0ee40c8cfd3140/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/nguyentruong/.android/build-cache/f9f159b61161bf2bfe8e5cc6696a6d0a7ccf9924/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/nguyentruong/.android/build-cache/67870a905d8f982650a980ade5dfac5e67077e0c/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/nguyentruong/.android/build-cache/e84a0f806a4518957a89af14dbf892b7e61706d7/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/nguyentruong/.android/build-cache/f1a6baffdec608e30d64d96aa0603ca0694bb639/output/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/nguyentruong/.android/build-cache/b6767e4723f6f8654b06ae2d6a0ee40c8cfd3140/output/AndroidManifest.xml:24:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/nguyentruong/.android/build-cache/3d27f12a8ec08c9c6e59018fd591ca0ca48ccc3f/output/AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/nguyentruong/.android/build-cache/3d27f12a8ec08c9c6e59018fd591ca0ca48ccc3f/output/AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/nguyentruong/.android/build-cache/3d27f12a8ec08c9c6e59018fd591ca0ca48ccc3f/output/AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/nguyentruong/.android/build-cache/3d27f12a8ec08c9c6e59018fd591ca0ca48ccc3f/output/AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/nguyentruong/.android/build-cache/3d27f12a8ec08c9c6e59018fd591ca0ca48ccc3f/output/AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/nguyentruong/.android/build-cache/3d27f12a8ec08c9c6e59018fd591ca0ca48ccc3f/output/AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/nguyentruong/.android/build-cache/3d27f12a8ec08c9c6e59018fd591ca0ca48ccc3f/output/AndroidManifest.xml:22:25-87
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/nguyentruong/.android/build-cache/125fdebc6e5ebc40ae2167ce3b8ce878480096d4/output/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/nguyentruong/.android/build-cache/125fdebc6e5ebc40ae2167ce3b8ce878480096d4/output/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/nguyentruong/.android/build-cache/125fdebc6e5ebc40ae2167ce3b8ce878480096d4/output/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/nguyentruong/.android/build-cache/125fdebc6e5ebc40ae2167ce3b8ce878480096d4/output/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/nguyentruong/.android/build-cache/125fdebc6e5ebc40ae2167ce3b8ce878480096d4/output/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/nguyentruong/.android/build-cache/125fdebc6e5ebc40ae2167ce3b8ce878480096d4/output/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/nguyentruong/.android/build-cache/125fdebc6e5ebc40ae2167ce3b8ce878480096d4/output/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/nguyentruong/.android/build-cache/125fdebc6e5ebc40ae2167ce3b8ce878480096d4/output/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/nguyentruong/.android/build-cache/125fdebc6e5ebc40ae2167ce3b8ce878480096d4/output/AndroidManifest.xml:24:18-63
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/nguyentruong/.android/build-cache/42a703d1140ed47c2f097df44ff776b7c0d9b7cc/output/AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/nguyentruong/.android/build-cache/42a703d1140ed47c2f097df44ff776b7c0d9b7cc/output/AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/nguyentruong/.android/build-cache/42a703d1140ed47c2f097df44ff776b7c0d9b7cc/output/AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/nguyentruong/.android/build-cache/42a703d1140ed47c2f097df44ff776b7c0d9b7cc/output/AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/nguyentruong/.android/build-cache/42a703d1140ed47c2f097df44ff776b7c0d9b7cc/output/AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/nguyentruong/.android/build-cache/42a703d1140ed47c2f097df44ff776b7c0d9b7cc/output/AndroidManifest.xml:7:18-90
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/nguyentruong/.android/build-cache/0dfb90f4c558655727a13812e3ce313546cacc5a/output/AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/nguyentruong/.android/build-cache/0dfb90f4c558655727a13812e3ce313546cacc5a/output/AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/nguyentruong/.android/build-cache/0dfb90f4c558655727a13812e3ce313546cacc5a/output/AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/nguyentruong/.android/build-cache/0dfb90f4c558655727a13812e3ce313546cacc5a/output/AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/nguyentruong/.android/build-cache/0dfb90f4c558655727a13812e3ce313546cacc5a/output/AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/nguyentruong/.android/build-cache/0dfb90f4c558655727a13812e3ce313546cacc5a/output/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/nguyentruong/.android/build-cache/0dfb90f4c558655727a13812e3ce313546cacc5a/output/AndroidManifest.xml:25:25-75
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/nguyentruong/.android/build-cache/949fd96dc53c2d9b4fe50fd4f3bdf2d4abcff601/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/nguyentruong/.android/build-cache/aa3e3605824a5603170eb8160b3fa63ef4e8e305/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/nguyentruong/.android/build-cache/e84a0f806a4518957a89af14dbf892b7e61706d7/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/nguyentruong/.android/build-cache/949fd96dc53c2d9b4fe50fd4f3bdf2d4abcff601/output/AndroidManifest.xml:20:22-79
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/nguyentruong/.android/build-cache/b08b11c85037446b0b191ec491c769d2390215d7/output/AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/nguyentruong/.android/build-cache/b08b11c85037446b0b191ec491c769d2390215d7/output/AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/nguyentruong/.android/build-cache/b08b11c85037446b0b191ec491c769d2390215d7/output/AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/nguyentruong/.android/build-cache/b08b11c85037446b0b191ec491c769d2390215d7/output/AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/nguyentruong/.android/build-cache/b08b11c85037446b0b191ec491c769d2390215d7/output/AndroidManifest.xml:25:9-32:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/nguyentruong/.android/build-cache/b08b11c85037446b0b191ec491c769d2390215d7/output/AndroidManifest.xml:25:94-117
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/nguyentruong/.android/build-cache/b08b11c85037446b0b191ec491c769d2390215d7/output/AndroidManifest.xml:25:118-142
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/nguyentruong/.android/build-cache/b08b11c85037446b0b191ec491c769d2390215d7/output/AndroidManifest.xml:25:19-93
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/nguyentruong/.android/build-cache/b08b11c85037446b0b191ec491c769d2390215d7/output/AndroidManifest.xml:26:13-31:29
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/nguyentruong/.android/build-cache/b08b11c85037446b0b191ec491c769d2390215d7/output/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/nguyentruong/.android/build-cache/b08b11c85037446b0b191ec491c769d2390215d7/output/AndroidManifest.xml:30:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/nguyentruong/.android/build-cache/f9f159b61161bf2bfe8e5cc6696a6d0a7ccf9924/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/nguyentruong/.android/build-cache/67870a905d8f982650a980ade5dfac5e67077e0c/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/nguyentruong/.android/build-cache/f9f159b61161bf2bfe8e5cc6696a6d0a7ccf9924/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/nguyentruong/.android/build-cache/f9f159b61161bf2bfe8e5cc6696a6d0a7ccf9924/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/nguyentruong/.android/build-cache/f9f159b61161bf2bfe8e5cc6696a6d0a7ccf9924/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/nguyentruong/.android/build-cache/f9f159b61161bf2bfe8e5cc6696a6d0a7ccf9924/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/nguyentruong/.android/build-cache/f9f159b61161bf2bfe8e5cc6696a6d0a7ccf9924/output/AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/nguyentruong/.android/build-cache/f9f159b61161bf2bfe8e5cc6696a6d0a7ccf9924/output/AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/nguyentruong/.android/build-cache/f9f159b61161bf2bfe8e5cc6696a6d0a7ccf9924/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/nguyentruong/.android/build-cache/f9f159b61161bf2bfe8e5cc6696a6d0a7ccf9924/output/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/nguyentruong/.android/build-cache/f9f159b61161bf2bfe8e5cc6696a6d0a7ccf9924/output/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/nguyentruong/.android/build-cache/f9f159b61161bf2bfe8e5cc6696a6d0a7ccf9924/output/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/nguyentruong/.android/build-cache/f9f159b61161bf2bfe8e5cc6696a6d0a7ccf9924/output/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/nguyentruong/.android/build-cache/f9f159b61161bf2bfe8e5cc6696a6d0a7ccf9924/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/nguyentruong/.android/build-cache/67870a905d8f982650a980ade5dfac5e67077e0c/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/nguyentruong/.android/build-cache/f9f159b61161bf2bfe8e5cc6696a6d0a7ccf9924/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/nguyentruong/.android/build-cache/f9f159b61161bf2bfe8e5cc6696a6d0a7ccf9924/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/nguyentruong/.android/build-cache/f9f159b61161bf2bfe8e5cc6696a6d0a7ccf9924/output/AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/nguyentruong/.android/build-cache/f9f159b61161bf2bfe8e5cc6696a6d0a7ccf9924/output/AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/nguyentruong/.android/build-cache/f9f159b61161bf2bfe8e5cc6696a6d0a7ccf9924/output/AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/nguyentruong/.android/build-cache/f9f159b61161bf2bfe8e5cc6696a6d0a7ccf9924/output/AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/nguyentruong/.android/build-cache/f9f159b61161bf2bfe8e5cc6696a6d0a7ccf9924/output/AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/nguyentruong/.android/build-cache/f9f159b61161bf2bfe8e5cc6696a6d0a7ccf9924/output/AndroidManifest.xml:33:16-90
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/nguyentruong/.android/build-cache/e84a0f806a4518957a89af14dbf892b7e61706d7/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/nguyentruong/.android/build-cache/e84a0f806a4518957a89af14dbf892b7e61706d7/output/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/nguyentruong/.android/build-cache/e84a0f806a4518957a89af14dbf892b7e61706d7/output/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/nguyentruong/.android/build-cache/e84a0f806a4518957a89af14dbf892b7e61706d7/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/nguyentruong/.android/build-cache/e84a0f806a4518957a89af14dbf892b7e61706d7/output/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/nguyentruong/.android/build-cache/e84a0f806a4518957a89af14dbf892b7e61706d7/output/AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/nguyentruong/.android/build-cache/e84a0f806a4518957a89af14dbf892b7e61706d7/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/nguyentruong/.android/build-cache/e84a0f806a4518957a89af14dbf892b7e61706d7/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/nguyentruong/.android/build-cache/e84a0f806a4518957a89af14dbf892b7e61706d7/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/nguyentruong/.android/build-cache/e84a0f806a4518957a89af14dbf892b7e61706d7/output/AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/nguyentruong/.android/build-cache/e84a0f806a4518957a89af14dbf892b7e61706d7/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/nguyentruong/.android/build-cache/e84a0f806a4518957a89af14dbf892b7e61706d7/output/AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/nguyentruong/.android/build-cache/e84a0f806a4518957a89af14dbf892b7e61706d7/output/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/nguyentruong/.android/build-cache/e84a0f806a4518957a89af14dbf892b7e61706d7/output/AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/nguyentruong/.android/build-cache/e84a0f806a4518957a89af14dbf892b7e61706d7/output/AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/nguyentruong/.android/build-cache/e84a0f806a4518957a89af14dbf892b7e61706d7/output/AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/nguyentruong/.android/build-cache/e84a0f806a4518957a89af14dbf892b7e61706d7/output/AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/nguyentruong/.android/build-cache/e84a0f806a4518957a89af14dbf892b7e61706d7/output/AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/nguyentruong/.android/build-cache/e84a0f806a4518957a89af14dbf892b7e61706d7/output/AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/nguyentruong/.android/build-cache/e84a0f806a4518957a89af14dbf892b7e61706d7/output/AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/nguyentruong/.android/build-cache/e84a0f806a4518957a89af14dbf892b7e61706d7/output/AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/nguyentruong/.android/build-cache/e84a0f806a4518957a89af14dbf892b7e61706d7/output/AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/nguyentruong/.android/build-cache/e84a0f806a4518957a89af14dbf892b7e61706d7/output/AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/nguyentruong/.android/build-cache/e84a0f806a4518957a89af14dbf892b7e61706d7/output/AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/nguyentruong/.android/build-cache/02cd5e6ee1a62c277a78eb87b99e36573b00d87b/output/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/nguyentruong/.android/build-cache/02cd5e6ee1a62c277a78eb87b99e36573b00d87b/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/nguyentruong/.android/build-cache/02cd5e6ee1a62c277a78eb87b99e36573b00d87b/output/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/nguyentruong/.android/build-cache/02cd5e6ee1a62c277a78eb87b99e36573b00d87b/output/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/nguyentruong/.android/build-cache/02cd5e6ee1a62c277a78eb87b99e36573b00d87b/output/AndroidManifest.xml:6:79-143
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/nguyentruong/.android/build-cache/89bb45156cfa74a94c6e8e44907bb06e6b48d83a/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/nguyentruong/.android/build-cache/89bb45156cfa74a94c6e8e44907bb06e6b48d83a/output/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/nguyentruong/.android/build-cache/89bb45156cfa74a94c6e8e44907bb06e6b48d83a/output/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/nguyentruong/.android/build-cache/3df3547456eee37582a7052f28e33b14639f2185/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/nguyentruong/.android/build-cache/3df3547456eee37582a7052f28e33b14639f2185/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/nguyentruong/.android/build-cache/3df3547456eee37582a7052f28e33b14639f2185/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/nguyentruong/.android/build-cache/3df3547456eee37582a7052f28e33b14639f2185/output/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/nguyentruong/.android/build-cache/ec105f057fb6922c05c3f6540be3f8a4360312b0/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/nguyentruong/.android/build-cache/ec105f057fb6922c05c3f6540be3f8a4360312b0/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/nguyentruong/.android/build-cache/ec105f057fb6922c05c3f6540be3f8a4360312b0/output/AndroidManifest.xml:20:20-65

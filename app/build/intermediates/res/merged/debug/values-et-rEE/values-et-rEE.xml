@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="1087209702421076105" name="fingerprint_acquired_imager_dirty">"Sõrmejäljeandur on must. Puhastage see ja proovige uuesti."</string>
+    <string msgid="4596546021310923214" name="fingerprint_acquired_insufficient">"Sõrmejälge ei õnnestunud töödelda. Proovige uuesti."</string>
+    <string msgid="735082772341716043" name="fingerprint_acquired_partial">"Tuvastati osaline sõrmejälg. Proovige uuesti."</string>
+    <string msgid="6470642383109155969" name="fingerprint_acquired_too_fast">"Sõrm liikus liiga kiiresti. Proovige uuesti."</string>
+    <string msgid="59250885689661653" name="fingerprint_acquired_too_slow">"Sõrm liikus liiga aeglaselt. Proovige uuesti."</string>
+    <string msgid="4402024612660774395" name="fingerprint_error_canceled">"Sõrmejälje toiming tühistati."</string>
+    <string msgid="7955921658939936596" name="fingerprint_error_hw_not_available">"Sõrmejälje riistvara pole saadaval."</string>
+    <string msgid="5536934748136933450" name="fingerprint_error_lockout">"Liiga palju katseid. Proovige hiljem uuesti."</string>
+    <string msgid="1055819001126053318" name="fingerprint_error_no_space">"Sõrmejälge ei saa salvestada. Eemaldage olemasolev sõrmejälg."</string>
+    <string msgid="3927186043737732875" name="fingerprint_error_timeout">"Sõrmejälje riistvara taimeri ajalõpp. Proovige uuesti."</string>
+    <string msgid="6107816084103552441" name="fingerprint_error_unable_to_process">"Proovige uuesti."</string>
+    <string msgid="2690661881608146617" name="fingerprint_not_recognized">"Ei tuvastatud"</string>
+    <string msgid="4516019619850763049" name="fingerprints">"Sõrmejäljed:"</string>
+    <string msgid="3698378085901466129" name="mr_button_content_description">"Ülekandenupp"</string>
+    <string msgid="5088427771788648085" name="mr_cast_button_connected">"Ülekandenupp. Ühendatud"</string>
+    <string msgid="2187642765091873834" name="mr_cast_button_connecting">"Ülekandenupp. Ühendamine"</string>
+    <string msgid="816305490427819240" name="mr_cast_button_disconnected">"Ülekandenupp. Ühendus on katkestatud"</string>
+    <string msgid="6349900579507521956" name="mr_chooser_searching">"Seadmete otsimine"</string>
+    <string msgid="414301941546135990" name="mr_chooser_title">"Ülekandmine seadmesse"</string>
+    <string msgid="6422801843540543585" name="mr_controller_album_art">"Albumi kujundus"</string>
+    <string msgid="4868457957151124867" name="mr_controller_casting_screen">"Ekraanikuva ülekandmine"</string>
+    <string msgid="7333862312480583260" name="mr_controller_close_description">"Sulgemine"</string>
+    <string msgid="7924809056904240926" name="mr_controller_collapse_group">"Ahendamine"</string>
+    <string msgid="1227264889412989580" name="mr_controller_disconnect">"Katkesta ühendus"</string>
+    <string msgid="8062427022744266907" name="mr_controller_expand_group">"Laiendamine"</string>
+    <string msgid="5585418471741142924" name="mr_controller_no_info_available">"Teave puudub"</string>
+    <string msgid="6547130360349182381" name="mr_controller_no_media_selected">"Meediat pole valitud"</string>
+    <string msgid="5451884435510905406" name="mr_controller_pause">"Peatamine"</string>
+    <string msgid="683634565969987458" name="mr_controller_play">"Esitamine"</string>
+    <string msgid="4570331844078181931" name="mr_controller_stop">"Peata ülekanne"</string>
+    <string msgid="2361785992211841709" name="mr_controller_volume_slider">"Helitugevuse liugur"</string>
+    <string msgid="5441529851481176817" name="mr_system_route_name">"Süsteem"</string>
+    <string msgid="7498112907524977311" name="mr_user_route_category_name">"Seadmed"</string>
+</resources>
